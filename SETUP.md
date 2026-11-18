@@ -1,13 +1,12 @@
-# Setup (for the repo owner)
+# Run it yourself
 
-The repo is private until reviewed. Nothing here runs without the secrets below.
+The script calls each SportsDataHQ brand's `get_ratings` tool over REST and writes the CSVs in `ratings/`. It uses only the Python standard library.
 
-## 1. Repo secrets
+## Keys
 
-Each SportsDataHQ brand issues its own API key, and a key works only on its own
-brand. Add one secret per brand (Settings, Secrets and variables, Actions):
+Each brand issues its own API key, and a key works only on its own brand. Free keys (500 credits a month, no card) are at each brand's site.
 
-| Secret | Brand | Feeds |
+| Variable | Brand | Leagues |
 |---|---|---|
 | `SDHQ_API_KEY_PUCK` | PuckAPI | NHL predictions |
 | `SDHQ_API_KEY_DUNK` | DunkAPI | NBA, WNBA, NCAAM, NCAAW, NBL |
@@ -18,31 +17,14 @@ brand. Add one secret per brand (Settings, Secrets and variables, Actions):
 | `SDHQ_API_KEY_FIGHTER` | FighterAPI | UFC |
 | `SDHQ_API_KEY_YORKER` | YorkerAPI | Cricket |
 
-`SDHQ_API_KEY` is an optional fallback used for any brand without its own
-secret; a brand whose key is rejected is skipped, not failed.
+A brand without a key is skipped.
 
-Use an internal account's key for each brand, not a personal or customer key.
+## Commands
 
-Credits: a full run is about 97 credits (46 get_ratings calls at 2 credits plus
-one NHL predictions call at 5), so about 2,900 a month across all brands. Per
-brand that is at most 34 credits a day (StrikerAPI), about 1,000 a month. The
-free plan has 500 a month, so the internal accounts need a raised allowance
-(or a comped paid plan) before the daily schedule is turned on.
+    python3 scripts/fetch_ratings.py --dry-run          # calls and credits, no requests
+    export SDHQ_API_KEY_DUNK=...
+    python3 scripts/fetch_ratings.py --only dunk         # one brand
 
-## 2. Run it once
+Each `get_ratings` call costs 2 credits and the NHL predictions call 5. A full run of every league is 47 calls and 97 credits.
 
-Actions tab, "Daily ratings", Run workflow. Check the run summary: calls ok,
-credits used, and any brand skipped. Then confirm the schedule (11:00 UTC).
-
-## 3. Locally
-
-    export SDHQ_API_KEY_DUNK=...   # one per brand you want
-    python3 scripts/fetch_ratings.py --only dunk
-    python3 scripts/fetch_ratings.py --dry-run
-
-## 4. Before making it public
-
-- Open `ratings/` and confirm no odds, prices or box scores (there are none by design).
-- Read README.md and ratings.ipynb. The notebook loads from the raw GitHub URL,
-  which only works once the repo is public.
-- Settings, General, make public. Add a short description and the topics.
+Exit codes: 0 when every call succeeded, 2 when some failed (the leagues that worked are still written), 1 when nothing was fetched.

@@ -56,7 +56,7 @@ for lg in ["soccer", "mls", "laliga", "seriea", "bundesliga", "ligue1", "ucl",
            "championship", "nwsl", "ligamx", "uel", "uecl", "eredivisie",
            "primeira", "scotland", "brazil", "argentina"]:
     file = "premier_league" if lg == "soccer" else lg
-    JOBS.append(job("striker", "soccer", file, lg, params={"league": lg, "limit": 100}))
+    JOBS.append(job("striker", "soccer", file, file, params={"league": lg, "limit": 100}))
 # Tennis (AcesAPI): overall and by surface
 for tour, lg in [("atp", "tennis"), ("wta", "wta")]:
     JOBS.append(job("aces", "tennis", tour, tour, "overall", {"league": lg, "limit": 200}))
@@ -161,11 +161,13 @@ def main():
     today = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
     jobs = [j for j in JOBS if not args.only or j["brand"] == args.only]
     if args.dry_run:
-        print(f"{len(jobs)} calls, {len(jobs) * CREDITS_PER_CALL} credits")
+        nhl = 5 if (not args.only or args.only == "puck") else 0
+        print(f"{len(jobs) + (1 if nhl else 0)} calls, {len(jobs) * CREDITS_PER_CALL + nhl} credits")
         return 0
 
     # Group rows by output file so variants share one file.
     outputs, done, skipped, failed = {}, 0, {}, []
+    bad = set()  # files with a failed call keep yesterday's data instead of a partial rewrite
     credits = 0
     for j in jobs:
         brand = j["brand"]
@@ -182,15 +184,18 @@ def main():
                 skipped[brand] = f"HTTP {e.code}"
                 continue
             failed.append(f"{brand}/{j['file']}/{j['variant']}: HTTP {e.code}")
+            bad.add((j["sport"], j["file"]))
             continue
         except Exception as e:  # network or parse error
             failed.append(f"{brand}/{j['file']}/{j['variant']}: {type(e).__name__}")
+            bad.add((j["sport"], j["file"]))
             continue
         credits += used
         payload = data.get("data", data)
         rows = payload.get("ratings") or []
         if not rows:
             failed.append(f"{brand}/{j['file']}/{j['variant']}: empty")
+            bad.add((j["sport"], j["file"]))
             continue
         group_hint = j["params"].get("gender", "")
         top_asof = payload.get("as_of") or ""
@@ -199,6 +204,8 @@ def main():
         done += 1
 
     for (sport, file), rows in outputs.items():
+        if (sport, file) in bad:
+            continue
         base = os.path.join(ROOT, "ratings", sport, file)
         write_csv(base + ".csv", rows)
         hist = [r for r in read_csv(base + "_history.csv") if r["date"] != today]
@@ -212,23 +219,30 @@ def main():
             done += 1
             print(f"nhl predictions: {n} games")
         except urllib.error.HTTPError as e:
-            skipped["puck"] = f"HTTP {e.code}"
+            if e.code in (401, 402):
+                skipped["puck"] = f"HTTP {e.code}"
+            else:
+                failed.append(f"puck/predictions: HTTP {e.code}")
         except Exception as e:
             failed.append(f"puck/predictions: {type(e).__name__}")
-    else:
+    elif not args.only or args.only == "puck":
         skipped.setdefault("puck", "no key")
     print(f"date {today}: {done}/{len(jobs) + 1} calls ok, {credits} credits used, "
-          f"{len(outputs)} files written")
+          f"{len([k for k in outputs if k not in bad])} files written")
     for b, why in skipped.items():
         print(f"skipped {b}: {why}")
     for f in failed:
         print(f"failed {f}")
+        print(f"::warning::failed {f}")
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary:
         with open(summary, "a") as s:
             s.write(f"Ratings run {today}: {done}/{len(jobs) + 1} calls, {credits} credits. "
                     f"Skipped: {skipped or 'none'}. Failed: {len(failed)}\n")
-    return 0 if done else 1
+    # 0 all ok, 1 nothing worked, 2 partial (good files are still written and committed).
+    if not done:
+        return 1
+    return 2 if failed else 0
 
 
 if __name__ == "__main__":

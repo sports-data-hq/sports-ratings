@@ -33,7 +33,9 @@ jobs:
           SDHQ_API_KEY_BIRDIE: ${{ secrets.SDHQ_API_KEY_BIRDIE }}
           SDHQ_API_KEY_FIGHTER: ${{ secrets.SDHQ_API_KEY_FIGHTER }}
           SDHQ_API_KEY_YORKER: ${{ secrets.SDHQ_API_KEY_YORKER }}
-        run: python3 scripts/fetch_ratings.py
+        id: fetch
+        # Exit 2 = partial: the good files are written, so commit them and flag the run.
+        run: python3 scripts/fetch_ratings.py || echo "status=$?" >> "$GITHUB_OUTPUT"
       - name: Commit changes
         run: |
           git config user.name "sports-ratings"
@@ -43,5 +45,11 @@ jobs:
             echo "No changes"
           else
             git commit -m "Ratings for $(date -u +%F)"
+            git pull --rebase origin main
             git push
           fi
+      - name: Fail the run if any call failed
+        if: steps.fetch.outputs.status != ''
+        run: |
+          echo "fetch_ratings.py exited ${{ steps.fetch.outputs.status }} (1 = nothing fetched, 2 = some calls failed; see warnings)"
+          exit 1
