@@ -1,0 +1,47 @@
+name: Daily ratings
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 11:00 UTC, after the 10:00 UTC data jobs
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-ratings
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch ratings
+        env:
+          # One key works only on its own brand. SDHQ_API_KEY is the fallback.
+          SDHQ_API_KEY: ${{ secrets.SDHQ_API_KEY }}
+          SDHQ_API_KEY_PUCK: ${{ secrets.SDHQ_API_KEY_PUCK }}
+          SDHQ_API_KEY_DUNK: ${{ secrets.SDHQ_API_KEY_DUNK }}
+          SDHQ_API_KEY_FASTBALL: ${{ secrets.SDHQ_API_KEY_FASTBALL }}
+          SDHQ_API_KEY_STRIKER: ${{ secrets.SDHQ_API_KEY_STRIKER }}
+          SDHQ_API_KEY_ACES: ${{ secrets.SDHQ_API_KEY_ACES }}
+          SDHQ_API_KEY_BIRDIE: ${{ secrets.SDHQ_API_KEY_BIRDIE }}
+          SDHQ_API_KEY_FIGHTER: ${{ secrets.SDHQ_API_KEY_FIGHTER }}
+          SDHQ_API_KEY_YORKER: ${{ secrets.SDHQ_API_KEY_YORKER }}
+        run: python3 scripts/fetch_ratings.py
+      - name: Commit changes
+        run: |
+          git config user.name "sports-ratings"
+          git config user.email "noreply@sportsdatahq.com"
+          git add ratings
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Ratings for $(date -u +%F)"
+            git push
+          fi
