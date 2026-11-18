@@ -68,7 +68,7 @@ for lg, file in [("golf", "pga"), ("lpga", "lpga"), ("liv", "liv"),
                  ("dpwt", "dpwt"), ("kornferry", "kornferry")]:
     JOBS.append(job("birdie", "golf", file, file, params={"league": lg, "limit": 200}))
 # MMA (FighterAPI): UFC
-JOBS.append(job("fighter", "mma", "ufc", "ufc", params={"league": "mma", "limit": 300}))
+JOBS.append(job("fighter", "mma", "ufc", "ufc", params={"league": "mma", "limit": 200}))
 # Cricket (YorkerAPI): men's and women's, by format
 for fmt in ["test", "odi", "t20"]:
     for gender in ["male", "female"]:
