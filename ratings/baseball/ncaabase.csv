@@ -1,323 +1,323 @@
 date,league,variant,group,rank,id,name,abbrev,country,rating,games,last_played,as_of
-2026-11-18,ncaabase,,,1,77,Georgia Tech Yellow Jackets,GT,,1902.9,,,2026-06-01T19:00:00.000Z
-2026-11-18,ncaabase,,,2,78,Georgia Bulldogs,UGA,,1902.1,,,2026-06-17T23:00:00.000Z
-2026-11-18,ncaabase,,,3,96,North Carolina Tar Heels,UNC,,1886.6,,,2026-06-22T23:00:00.000Z
-2026-11-18,ncaabase,,,4,66,UCLA Bruins,UCLA,,1881.4,,,2026-05-31T20:00:00.000Z
-2026-11-18,ncaabase,,,5,112,Oklahoma Sooners,OU,,1866.4,,,2026-06-22T23:00:00.000Z
-2026-11-18,ncaabase,,,6,126,Texas Longhorns,TEX,,1850.1,,,2026-06-17T00:00:00.000Z
-2026-11-18,ncaabase,,,7,55,Auburn Tigers,AUB,,1841.3,,,2026-06-06T21:00:00.000Z
-2026-11-18,ncaabase,,,8,136,West Virginia Mountaineers,WVU,,1840.6,,,2026-06-17T18:00:00.000Z
-2026-11-18,ncaabase,,,9,150,Mississippi State Bulldogs,MSST,,1837.6,,,2026-06-07T16:00:00.000Z
-2026-11-18,ncaabase,,,10,68,USC Trojans,USC,,1821.5,,,2026-06-07T19:00:00.000Z
-2026-11-18,ncaabase,,,11,273,Oregon Ducks,ORE,,1798.4,,,2026-06-08T01:00:00.000Z
-2026-11-18,ncaabase,,,12,75,Florida Gators,FLA,,1796.8,,,2026-06-01T22:00:00.000Z
-2026-11-18,ncaabase,,,13,123,Texas A&M Aggies,TA&M,,1787,,,2026-06-02T01:00:00.000Z
-2026-11-18,ncaabase,,,14,168,Kansas Jayhawks,KU,,1786.5,,,2026-06-08T00:30:00.000Z
-2026-11-18,ncaabase,,,15,58,Arkansas Razorbacks,ARK,,1779.9,,,2026-05-31T22:00:00.000Z
-2026-11-18,ncaabase,,,16,72,Florida State Seminoles,FSU,,1777.9,,,2026-06-01T16:00:00.000Z
-2026-11-18,ncaabase,,,17,92,Ole Miss Rebels,MISS,,1767.9,,,2026-06-14T18:00:00.000Z
-2026-11-18,ncaabase,,,18,113,Oregon State Beavers,ORST,,1765,,,2026-06-01T01:00:00.000Z
-2026-11-18,ncaabase,,,19,97,Wake Forest Demon Deacons,WAKE,,1759.8,,,2026-05-31T16:00:00.000Z
-2026-11-18,ncaabase,,,20,99,Nebraska Cornhuskers,NEB,,1750.5,,,2026-05-31T19:00:00.000Z
-2026-11-18,ncaabase,,,21,110,Oklahoma State Cowboys,OKST,,1742.6,,,2026-06-01T00:00:00.000Z
-2026-11-18,ncaabase,,,22,59,Arizona State Sun Devils,ASU,,1739.2,,,2026-06-01T00:00:00.000Z
-2026-11-18,ncaabase,,,23,73,Jacksonville State Gamecocks,JVST,,1729.6,,,2026-06-01T01:00:00.000Z
-2026-11-18,ncaabase,,,24,269,Troy Trojans,TROY,,1729.3,,,2026-06-16T18:00:00.000Z
-2026-11-18,ncaabase,,,25,148,Alabama Crimson Tide,ALA,,1728.6,,,2026-06-15T18:00:00.000Z
-2026-11-18,ncaabase,,,26,199,Tennessee Volunteers,TENN,,1722.6,,,2026-05-30T16:00:00.000Z
-2026-11-18,ncaabase,,,27,192,Southern Miss Golden Eagles,USM,,1716.4,,,2026-05-30T18:00:00.000Z
-2026-11-18,ncaabase,,,28,120,Vanderbilt Commodores,VAN,,1713.5,,,2026-05-20T17:45:00.000Z
-2026-11-18,ncaabase,,,29,94,East Carolina Pirates,ECU,,1705.1,,,2026-05-31T21:00:00.000Z
-2026-11-18,ncaabase,,,30,176,Miami Hurricanes,MIA,,1703.4,,,2026-05-31T16:00:00.000Z
-2026-11-18,ncaabase,,,31,198,TCU Horned Frogs,TCU,,1703,,,2026-05-21T03:00:00.000Z
-2026-11-18,ncaabase,,,32,81,Notre Dame Fighting Irish,ND,,1690.8,,,2026-05-20T21:00:00.000Z
-2026-11-18,ncaabase,,,33,293,Campbell Fighting Camels,CAM,,1690.1,,,2026-05-24T18:00:00.000Z
-2026-11-18,ncaabase,,,34,160,UCF Knights,UCF,,1687.3,,,2026-05-31T21:06:00.000Z
-2026-11-18,ncaabase,,,35,161,Cincinnati Bearcats,CIN,,1684.2,,,2026-05-31T19:00:00.000Z
-2026-11-18,ncaabase,,,36,82,Kentucky Wildcats,UK,,1684.2,,,2026-06-01T22:00:00.000Z
-2026-11-18,ncaabase,,,37,172,Liberty Flames,LIB,,1683.6,,,2026-05-31T21:00:00.000Z
-2026-11-18,ncaabase,,,38,85,LSU Tigers,LSU,,1674.8,,,2026-05-21T01:00:00.000Z
-2026-11-18,ncaabase,,,39,405,Northeastern Huskies,NE,,1671.6,,,2026-05-31T17:00:00.000Z
-2026-11-18,ncaabase,,,40,290,UC Santa Barbara Gauchos,UCSB,,1667.9,,,2026-05-31T22:00:00.000Z
-2026-11-18,ncaabase,,,41,297,UTSA Roadrunners,UTSA,,1665.2,,,2026-05-24T16:00:00.000Z
-2026-11-18,ncaabase,,,42,95,NC State Wolfpack,NCSU,,1660.2,,,2026-05-30T19:00:00.000Z
-2026-11-18,ncaabase,,,43,86,Boston College Eagles,BC,,1655.2,,,2026-05-31T16:00:00.000Z
-2026-11-18,ncaabase,,,44,131,Virginia Cavaliers,UVA,,1653.8,,,2026-05-31T20:00:00.000Z
-2026-11-18,ncaabase,,,45,117,Clemson Tigers,CLEM,,1650.9,,,2026-05-19T22:10:00.000Z
-2026-11-18,ncaabase,,,46,83,Louisville Cardinals,LOU,,1649,,,2026-05-20T01:35:00.000Z
-2026-11-18,ncaabase,,,47,115,Pittsburgh Panthers,PITT,,1648.5,,,2026-05-23T19:00:00.000Z
-2026-11-18,ncaabase,,,48,146,Coastal Carolina Chanticleers,CCU,,1647.7,,,2026-05-30T18:00:00.000Z
-2026-11-18,ncaabase,,,49,167,Iowa Hawkeyes,IOWA,,1646,,,2026-05-21T19:00:00.000Z
-2026-11-18,ncaabase,,,50,1105,California Baptist Lancers,CBU,,1643,,,2026-05-23T02:00:00.000Z
-2026-11-18,ncaabase,,,51,144,Louisiana Ragin' Cajuns,UL,,1641.4,,,2026-06-01T00:00:00.000Z
-2026-11-18,ncaabase,,,52,189,Purdue Boilermakers,PUR,,1635.8,,,2026-05-23T00:00:00.000Z
-2026-11-18,ncaabase,,,53,264,Kansas State Wildcats,KSU,,1634.8,,,2026-05-22T00:30:00.000Z
-2026-11-18,ncaabase,,,54,132,Virginia Tech Hokies,VT,,1633.3,,,2026-05-30T20:00:00.000Z
-2026-11-18,ncaabase,,,55,90,Minnesota Golden Gophers,MINN,,1631.9,,,2026-05-16T18:05:00.000Z
-2026-11-18,ncaabase,,,56,61,Cal Poly Mustangs,CP,,1626.6,,,2026-06-06T16:00:00.000Z
-2026-11-18,ncaabase,,,57,287,Gonzaga Bulldogs,GONZ,,1625.7,,,2026-05-22T17:00:00.000Z
-2026-11-18,ncaabase,,,58,263,Dallas Baptist Patriots,DBU,,1620.8,,,2026-05-23T17:42:00.000Z
-2026-11-18,ncaabase,,,59,89,Michigan Wolverines,MICH,,1612.3,,,2026-05-23T03:59:00.000Z
-2026-11-18,ncaabase,,,60,195,St. John's Red Storm,SJU,,1611.2,,,2026-06-07T20:00:00.000Z
-2026-11-18,ncaabase,,,61,65,California Golden Bears,CAL,,1608.8,,,2026-05-19T18:20:00.000Z
-2026-11-18,ncaabase,,,62,64,Stanford Cardinal,STAN,,1608.2,,,2026-05-20T17:00:00.000Z
-2026-11-18,ncaabase,,,63,88,Michigan State Spartans,MSU,,1605,,,2026-05-22T14:00:00.000Z
-2026-11-18,ncaabase,,,64,57,South Alabama Jaguars,USA,,1603.6,,,2026-05-23T14:00:00.000Z
-2026-11-18,ncaabase,,,65,108,Ohio State Buckeyes,OSU,,1602.6,,,2026-05-21T23:00:00.000Z
-2026-11-18,ncaabase,,,66,133,Washington Huskies,WASH,,1599.9,,,2026-05-23T15:00:00.000Z
-2026-11-18,ncaabase,,,67,197,Missouri State Bears,MOST,,1592.9,,,2026-05-30T18:30:00.000Z
-2026-11-18,ncaabase,,,68,93,Duke Blue Devils,DUKE,,1584.2,,,2026-05-20T13:00:00.000Z
-2026-11-18,ncaabase,,,69,121,Baylor Bears,BAY,,1576,,,2026-05-21T20:25:00.000Z
-2026-11-18,ncaabase,,,70,294,Indiana Hoosiers,IU,,1573.8,,,2026-05-16T18:00:00.000Z
-2026-11-18,ncaabase,,,71,147,Texas State Bobcats,TXST,,1572.9,,,2026-05-31T20:00:00.000Z
-2026-11-18,ncaabase,,,72,173,Louisiana Tech Bulldogs,LT,,1571.5,,,2026-05-22T13:00:00.000Z
-2026-11-18,ncaabase,,,73,153,Illinois Fighting Illini,ILL,,1571,,,2026-05-20T14:00:00.000Z
-2026-11-18,ncaabase,,,74,271,App State Mountaineers,APP,,1569.3,,,2026-05-21T18:04:00.000Z
-2026-11-18,ncaabase,,,75,128,Utah Utes,UTAH,,1567.3,,,2026-05-20T03:20:00.000Z
-2026-11-18,ncaabase,,,76,127,BYU Cougars,BYU,,1566.3,,,2026-05-20T23:30:00.000Z
-2026-11-18,ncaabase,,,77,122,Rice Owls,RICE,,1563.1,,,2026-05-22T20:30:00.000Z
-2026-11-18,ncaabase,,,78,98,Creighton Bluejays,CREI,,1562.5,,,2026-05-24T13:00:00.000Z
-2026-11-18,ncaabase,,,79,320,Arkansas State Red Wolves,ARST,,1559.4,,,2026-05-16T18:00:00.000Z
-2026-11-18,ncaabase,,,80,312,Xavier Musketeers,XU,,1559.3,,,2026-05-23T22:00:00.000Z
-2026-11-18,ncaabase,,,81,1147,UC San Diego Tritons,UCSD,,1557.9,,,2026-05-24T19:00:00.000Z
-2026-11-18,ncaabase,,,82,87,Maryland Terrapins,MD,,1557.9,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,83,69,UConn Huskies,CONN,,1557.2,,,2026-05-22T00:00:00.000Z
-2026-11-18,ncaabase,,,84,453,South Carolina Upstate Spartans,UPST,,1551.9,,,2026-05-31T19:00:00.000Z
-2026-11-18,ncaabase,,,85,76,South Florida Bulls,USF,,1550.5,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,86,180,Charlotte 49ers,CLT,,1549.6,,,2026-05-20T20:45:00.000Z
-2026-11-18,ncaabase,,,87,261,Little Rock Trojans,UALR,,1548.6,,,2026-06-06T19:00:00.000Z
-2026-11-18,ncaabase,,,88,426,Saint Mary's Gaels,SMC,,1546.7,,,2026-06-01T01:00:00.000Z
-2026-11-18,ncaabase,,,89,295,Mercer Bears,MER,,1545.8,,,2026-05-22T13:00:00.000Z
-2026-11-18,ncaabase,,,90,391,Morehead State Eagles,MORE,,1543.5,,,2026-05-19T21:00:00.000Z
-2026-11-18,ncaabase,,,91,291,Florida Gulf Coast Eagles,FGCU,,1542.1,,,2026-05-23T14:30:00.000Z
-2026-11-18,ncaabase,,,92,202,The Citadel Bulldogs,CIT,,1540.8,,,2026-05-31T17:00:00.000Z
-2026-11-18,ncaabase,,,93,84,Western Kentucky Hilltoppers,WKU,,1538.7,,,2026-05-22T16:30:00.000Z
-2026-11-18,ncaabase,,,94,447,UAB Blazers,UAB,,1538.1,,,2026-05-23T18:05:00.000Z
-2026-11-18,ncaabase,,,95,142,UC Irvine Anteaters,UCI,,1536.1,,,2026-05-16T20:00:00.000Z
-2026-11-18,ncaabase,,,96,60,Arizona Wildcats,ARIZ,,1534.9,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,97,206,Wichita State Shockers,WICH,,1533.8,,,2026-05-23T23:00:00.000Z
-2026-11-18,ncaabase,,,98,365,Hofstra Pride,HOF,,1533.7,,,2026-05-23T19:00:00.000Z
-2026-11-18,ncaabase,,,99,124,Houston Cougars,HOU,,1528.6,,,2026-05-16T18:00:00.000Z
-2026-11-18,ncaabase,,,100,102,Rutgers Scarlet Knights,RUTG,,1527.8,,,2026-05-20T18:00:00.000Z
-2026-11-18,ncaabase,,,101,208,Wofford Terriers,WOF,,1527.5,,,2026-05-21T20:50:00.000Z
-2026-11-18,ncaabase,,,102,1145,Tarleton State Texans,TAST,,1527.3,,,2026-05-31T17:00:00.000Z
-2026-11-18,ncaabase,,,103,119,Memphis Tigers,MEM,,1527,,,2026-05-23T01:07:00.000Z
-2026-11-18,ncaabase,,,104,314,Sacramento State Hornets,SAC,,1526.8,,,2026-05-23T22:00:00.000Z
-2026-11-18,ncaabase,,,105,79,Hawai'i Rainbow Warriors,HAW,,1523.8,,,2026-05-21T01:00:00.000Z
-2026-11-18,ncaabase,,,106,152,UNC Wilmington Seahawks,UNCW,,1522.5,,,2026-05-23T00:30:00.000Z
-2026-11-18,ncaabase,,,107,1103,North Alabama Lions,UNA,,1522.3,,,2026-05-23T18:45:00.000Z
-2026-11-18,ncaabase,,,108,201,Texas Tech Red Raiders,TTU,,1521.7,,,2026-05-19T23:30:00.000Z
-2026-11-18,ncaabase,,,109,204,VCU Rams,VCU,,1519.5,,,2026-05-31T16:00:00.000Z
-2026-11-18,ncaabase,,,110,274,Samford Bulldogs,SAM,,1519.2,,,2026-05-23T23:00:00.000Z
-2026-11-18,ncaabase,,,111,304,East Tennessee State Buccaneers,ETSU,,1517.9,,,2026-05-20T17:20:00.000Z
-2026-11-18,ncaabase,,,112,91,Missouri Tigers,MIZ,,1517.6,,,2026-05-20T14:30:00.000Z
-2026-11-18,ncaabase,,,113,358,Georgia State Panthers,GAST,,1515.7,,,2026-05-21T22:23:00.000Z
-2026-11-18,ncaabase,,,114,307,Kennesaw State Owls,KENN,,1515.5,,,2026-05-22T00:05:00.000Z
-2026-11-18,ncaabase,,,115,140,Old Dominion Monarchs,ODU,,1514,,,2026-05-19T23:30:00.000Z
-2026-11-18,ncaabase,,,116,466,Yale Bulldogs,YALE,,1513.4,,,2026-05-30T20:00:00.000Z
-2026-11-18,ncaabase,,,117,270,Wright State Raiders,WRST,,1510,,,2026-05-23T20:25:00.000Z
-2026-11-18,ncaabase,,,118,427,Santa Clara Broncos,SCU,,1509.8,,,2026-05-20T21:00:00.000Z
-2026-11-18,ncaabase,,,119,394,Murray State Racers,MUR,,1508.1,,,2026-05-24T00:15:00.000Z
-2026-11-18,ncaabase,,,120,169,Kent State Golden Flashes,KENT,,1504.5,,,2026-05-23T15:45:00.000Z
-2026-11-18,ncaabase,,,121,134,Washington State Cougars,WSU,,1500,,,2026-05-31T20:00:00.000Z
-2026-11-18,ncaabase,,,122,364,High Point Panthers,HPU,,1499.8,,,2026-05-24T02:10:00.000Z
-2026-11-18,ncaabase,,,123,118,Charleston Cougars,COFC,,1498.7,,,2026-05-21T15:00:00.000Z
-2026-11-18,ncaabase,,,124,448,UC Davis Aggies,UCD,,1498.6,,,2026-05-15T19:00:00.000Z
-2026-11-18,ncaabase,,,125,296,North Florida Ospreys,NFLA,,1498.5,,,2026-05-22T14:00:00.000Z
-2026-11-18,ncaabase,,,126,163,Florida Atlantic Owls,FAU,,1497.3,,,2026-05-20T17:00:00.000Z
-2026-11-18,ncaabase,,,127,170,Lamar Cardinals,LAM,,1496.6,,,2026-05-30T20:00:00.000Z
-2026-11-18,ncaabase,,,128,309,SE Louisiana Lions,SELA,,1496.5,,,2026-05-17T18:00:00.000Z
-2026-11-18,ncaabase,,,129,408,Northern Illinois Huskies,NIU,,1496.5,,,2026-05-31T23:10:00.000Z
-2026-11-18,ncaabase,,,130,932,UT Rio Grande Valley Vaqueros,RGV,,1495.5,,,2026-05-15T18:00:00.000Z
-2026-11-18,ncaabase,,,131,129704,Westcliff,WES,,1492.2,,,2026-03-10T18:00:00.000Z
-2026-11-18,ncaabase,,,132,191,Southeast Missouri State Redhawks,SEMO,,1491.9,,,2026-05-21T21:30:00.000Z
-2026-11-18,ncaabase,,,133,178,Monmouth Hawks,MONM,,1490.3,,,2026-05-22T20:00:00.000Z
-2026-11-18,ncaabase,,,134,193,South Carolina Gamecocks,SC,,1490.3,,,2026-05-19T22:35:00.000Z
-2026-11-18,ncaabase,,,135,129773,Washburn Ichabods,WSBN,,1490.1,,,2026-03-31T16:00:00.000Z
-2026-11-18,ncaabase,,,136,832,Hawaiʻi Pacific Sea Warriors,HPU,,1489.6,,,2026-03-26T04:35:00.000Z
-2026-11-18,ncaabase,,,137,926,Lindenwood Lions,LIN,,1488.3,,,2026-05-22T01:50:00.000Z
-2026-11-18,ncaabase,,,138,129772,Oakland City Mighty Oaks,OCU,,1488.1,,,2026-03-18T20:00:00.000Z
-2026-11-18,ncaabase,,,139,351,Fairfield Stags,FAIR,,1488,,,2026-05-23T18:15:00.000Z
-2026-11-18,ncaabase,,,140,129756,Wartburg Knights,WTBG,,1487.9,,,2026-02-24T21:05:00.000Z
-2026-11-18,ncaabase,,,141,1246,Southern Indiana Screaming Eagles,USI,,1487,,,2026-05-22T23:20:00.000Z
-2026-11-18,ncaabase,,,142,63,San José State Spartans,SJSU,,1485.2,,,2026-04-28T21:00:00.000Z
-2026-11-18,ncaabase,,,143,423,Rider Broncs,RID,,1484.3,,,2026-05-30T19:00:00.000Z
-2026-11-18,ncaabase,,,144,847,Hawaiʻi Hilo Vulcans,HILO,,1483.9,,,2026-04-30T04:30:00.000Z
-2026-11-18,ncaabase,,,145,1191,Roosevelt Lakers,ROO,,1483.5,,,2026-04-28T23:00:00.000Z
-2026-11-18,ncaabase,,,146,272,UL Monroe Warhawks,ULM,,1482.8,,,2026-05-16T18:00:00.000Z
-2026-11-18,ncaabase,,,147,129760,Cal State Los Angeles Golden Eagles,CSLA,,1482.4,,,2026-04-22T01:30:00.000Z
-2026-11-18,ncaabase,,,148,129763,Wisconsin Platteville Pioneers,UWP,,1482.3,,,2026-02-17T21:05:00.000Z
-2026-11-18,ncaabase,,,149,139,Jacksonville Dolphins,JAX,,1480.7,,,2026-05-20T18:00:00.000Z
-2026-11-18,ncaabase,,,150,380,Longwood Lancers,LONG,,1480.3,,,2026-05-24T21:30:00.000Z
-2026-11-18,ncaabase,,,151,203,Tulane Green Wave,TULN,,1479.8,,,2026-05-16T18:00:00.000Z
-2026-11-18,ncaabase,,,152,155,Air Force Falcons,AFA,,1478.3,,,2026-05-24T01:05:00.000Z
-2026-11-18,ncaabase,,,153,360,Grand Canyon Lopes,GCU,,1477.6,,,2026-04-29T02:00:00.000Z
-2026-11-18,ncaabase,,,154,62,San Diego State Aztecs,SDSU,,1477.5,,,2026-05-24T22:45:00.000Z
-2026-11-18,ncaabase,,,155,387,McNeese Cowboys,MCN,,1477.2,,,2026-05-22T23:00:00.000Z
-2026-11-18,ncaabase,,,156,165,Cal State Fullerton Titans,CSUF,,1477,,,2026-05-23T01:00:00.000Z
-2026-11-18,ncaabase,,,157,129761,Chaminade,129761,,1476.2,,,2026-03-11T04:30:00.000Z
-2026-11-18,ncaabase,,,158,328,Central Michigan Chippewas,CMU,,1475.7,,,2026-04-28T21:30:00.000Z
-2026-11-18,ncaabase,,,159,190,Sam Houston Bearkats,SHSU,,1475.4,,,2026-05-21T14:00:00.000Z
-2026-11-18,ncaabase,,,160,151,Army Black Knights,ARMY,,1473.8,,,2026-05-10T19:55:00.000Z
-2026-11-18,ncaabase,,,161,196,Stony Brook Seawolves,STBK,,1473.5,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,162,129775,University Of British Columbia University,129775,,1473.4,,,2026-04-07T04:00:00.000Z
-2026-11-18,ncaabase,,,163,205,Western Carolina Catamounts,WCU,,1471.9,,,2026-05-22T16:30:00.000Z
-2026-11-18,ncaabase,,,164,378,Lipscomb Bisons,LIP,,1471.2,,,2026-05-30T20:00:00.000Z
-2026-11-18,ncaabase,,,165,329,Charleston Southern Buccaneers,CHSO,,1471.1,,,2026-05-22T19:20:00.000Z
-2026-11-18,ncaabase,,,166,1189,Loras Duhawks,LOR,,1471,,,2026-03-04T22:00:00.000Z
-2026-11-18,ncaabase,,,167,259,Maine Black Bears,ME,,1470.2,,,2026-05-24T00:05:00.000Z
-2026-11-18,ncaabase,,,168,129759,Kentucky State Kentucky S,129759,,1469.9,,,2026-04-14T22:00:00.000Z
-2026-11-18,ncaabase,,,169,379,Long Island University Sharks,LIU,,1467.9,,,2026-05-30T16:00:00.000Z
-2026-11-18,ncaabase,,,170,347,Eastern Illinois Panthers,EIU,,1467.5,,,2026-05-24T17:00:00.000Z
-2026-11-18,ncaabase,,,171,116,Brown Bears,BRWN,,1466.1,,,2026-05-17T20:00:00.000Z
-2026-11-18,ncaabase,,,172,366,Holy Cross Crusaders,HC,,1465.6,,,2026-05-30T18:00:00.000Z
-2026-11-18,ncaabase,,,173,135,Milwaukee Panthers,MILW,,1465.2,,,2026-06-02T01:00:00.000Z
-2026-11-18,ncaabase,,,174,414,Penn State Nittany Lions,PSU,,1463.7,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,175,166,George Mason Patriots,GMU,,1463.2,,,2026-05-22T22:00:00.000Z
-2026-11-18,ncaabase,,,176,181,UNC Greensboro Spartans,UNCG,,1461.4,,,2026-05-22T00:30:00.000Z
-2026-11-18,ncaabase,,,177,74,Stetson Hatters,STET,,1459.5,,,2026-05-19T22:00:00.000Z
-2026-11-18,ncaabase,,,178,185,Cal State Northridge Matadors,CSUN,,1459.4,,,2026-05-16T04:35:00.000Z
-2026-11-18,ncaabase,,,179,318,Alabama State Hornets,ALST,,1459.4,,,2026-05-30T18:00:00.000Z
-2026-11-18,ncaabase,,,180,129698,Mercyhurst Lakers,MER,,1459,,,2026-03-31T19:00:00.000Z
-2026-11-18,ncaabase,,,181,420,Quinnipiac Bobcats,QUIN,,1457.5,,,2026-03-25T19:00:00.000Z
-2026-11-18,ncaabase,,,182,182,UNLV Rebels,UNLV,,1457.4,,,2026-05-21T20:05:00.000Z
-2026-11-18,ncaabase,,,183,288,Illinois State Redbirds,ILST,,1456.8,,,2026-05-21T15:00:00.000Z
-2026-11-18,ncaabase,,,184,308,Indiana State Sycamores,ISA,,1456.1,,,2026-05-23T20:00:00.000Z
-2026-11-18,ncaabase,,,185,416,Portland Pilots,PORT,,1456.1,,,2026-05-16T20:00:00.000Z
-2026-11-18,ncaabase,,,186,384,Marshall Thundering Herd,MRSH,,1455.5,,,2026-05-19T20:00:00.000Z
-2026-11-18,ncaabase,,,187,1146,Utah Tech Trailblazers,UTU,,1453.7,,,2026-05-22T22:00:00.000Z
-2026-11-18,ncaabase,,,188,411,Northwestern Wildcats,NU,,1452.1,,,2026-05-16T18:00:00.000Z
-2026-11-18,ncaabase,,,189,306,Central Arkansas Bears,CARK,,1451.9,,,2026-05-21T13:00:00.000Z
-2026-11-18,ncaabase,,,190,149,Evansville Purple Aces,EVAN,,1451.1,,,2026-05-22T02:15:00.000Z
-2026-11-18,ncaabase,,,191,159,Central Connecticut Blue Devils,CCSU,,1451.1,,,2026-04-07T19:00:00.000Z
-2026-11-18,ncaabase,,,192,137,Fresno State Bulldogs,FRES,,1449.7,,,2026-05-13T00:05:00.000Z
-2026-11-18,ncaabase,,,193,130,Richmond Spiders,RICH,,1448.4,,,2026-05-22T15:00:00.000Z
-2026-11-18,ncaabase,,,194,111,Oral Roberts Golden Eagles,ORU,,1446.9,,,2026-05-23T21:00:00.000Z
-2026-11-18,ncaabase,,,195,284,Columbia Lions,COLU,,1446.8,,,2026-05-17T16:00:00.000Z
-2026-11-18,ncaabase,,,196,844,Saint Martin's Saints,SM,,1445.9,,,2026-03-25T04:00:00.000Z
-2026-11-18,ncaabase,,,197,292,Binghamton Bearcats,BING,,1444.7,,,2026-05-30T16:00:00.000Z
-2026-11-18,ncaabase,,,198,80,UIC Flames,UIC,,1443.3,,,2026-05-30T18:06:00.000Z
-2026-11-18,ncaabase,,,199,129762,Southwest Mustangs,USW,,1443,,,2026-03-10T22:00:00.000Z
-2026-11-18,ncaabase,,,200,445,Toledo Rockets,TOL,,1442.4,,,2026-05-23T22:00:00.000Z
-2026-11-18,ncaabase,,,201,179,Navy Midshipmen,NAVY,,1440,,,2026-05-11T17:00:00.000Z
-2026-11-18,ncaabase,,,202,299,Bryant Bulldogs,BRY,,1439.7,,,2026-05-20T17:00:00.000Z
-2026-11-18,ncaabase,,,203,1245,Stonehill Skyhawks,STO,,1438.7,,,2026-02-22T16:00:00.000Z
-2026-11-18,ncaabase,,,204,310,North Dakota State Bison,NDSU,,1437.5,,,2026-04-28T16:00:00.000Z
-2026-11-18,ncaabase,,,205,104,New Mexico Lobos,UNM,,1437.4,,,2026-05-23T16:05:00.000Z
-2026-11-18,ncaabase,,,206,338,Dayton Flyers,DAY,,1437.4,,,2026-05-12T22:00:00.000Z
-2026-11-18,ncaabase,,,207,371,Incarnate Word Cardinals,IW,,1436.9,,,2026-04-28T23:00:00.000Z
-2026-11-18,ncaabase,,,208,107,Miami (OH) RedHawks,M-OH,,1436.2,,,2026-05-22T14:00:00.000Z
-2026-11-18,ncaabase,,,209,285,Jackson State Tigers,JACS,,1435.6,,,2026-05-21T14:00:00.000Z
-2026-11-18,ncaabase,,,210,463,Western Michigan Broncos,WMU,,1434.3,,,2026-05-22T17:00:00.000Z
-2026-11-18,ncaabase,,,211,315,Abilene Christian Wildcats,ACU,,1432.5,,,2026-05-22T02:35:00.000Z
-2026-11-18,ncaabase,,,212,437,Saint Peter's Peacocks,SPU,,1432,,,2026-05-05T20:00:00.000Z
-2026-11-18,ncaabase,,,213,353,Florida A&M Rattlers,FAMU,,1430.9,,,2026-05-24T21:00:00.000Z
-2026-11-18,ncaabase,,,214,356,Gardner-Webb Runnin' Bulldogs,GWEB,,1430.1,,,2026-05-12T22:00:00.000Z
-2026-11-18,ncaabase,,,215,158,Bethune-Cookman Wildcats,BCU,,1429.1,,,2026-05-23T14:00:00.000Z
-2026-11-18,ncaabase,,,216,432,Southern Illinois Salukis,SIU,,1429.1,,,2026-05-24T21:05:00.000Z
-2026-11-18,ncaabase,,,217,313,Bucknell Bison,BUCK,,1428.9,,,2026-05-20T14:00:00.000Z
-2026-11-18,ncaabase,,,218,327,Cal State Bakersfield Roadrunners,CSUB,,1428.9,,,2026-05-16T20:00:00.000Z
-2026-11-18,ncaabase,,,219,386,Massachusetts Minutemen,MASS,,1428.1,,,2026-04-14T18:00:00.000Z
-2026-11-18,ncaabase,,,220,395,NJIT Highlanders,NJIT,,1428.1,,,2026-05-10T20:00:00.000Z
-2026-11-18,ncaabase,,,221,164,Florida International Panthers,FIU,,1427.5,,,2026-05-16T20:00:00.000Z
-2026-11-18,ncaabase,,,222,336,Cornell Big Red,COR,,1426.1,,,2026-02-22T15:00:00.000Z
-2026-11-18,ncaabase,,,223,376,La Salle Explorers,LAS,,1425.9,,,2026-03-10T19:30:00.000Z
-2026-11-18,ncaabase,,,224,184,LSU New Orleans Privateers,UNO,,1425.6,,,2026-05-05T23:00:00.000Z
-2026-11-18,ncaabase,,,225,177,Middle Tennessee Blue Raiders,MTSU,,1423.8,,,2026-05-21T20:10:00.000Z
-2026-11-18,ncaabase,,,226,377,Lehigh Mountain Hawks,LEH,,1423.4,,,2026-04-29T20:00:00.000Z
-2026-11-18,ncaabase,,,227,207,Winthrop Eagles,WIN,,1419.8,,,2026-05-23T18:00:00.000Z
-2026-11-18,ncaabase,,,228,415,Pennsylvania Quakers,PENN,,1419.8,,,2026-05-16T16:00:00.000Z
-2026-11-18,ncaabase,,,229,412,Oakland Golden Grizzlies,OAK,,1419.4,,,2026-05-23T16:30:00.000Z
-2026-11-18,ncaabase,,,230,396,Omaha Mavericks,OMA,,1418.2,,,2026-05-21T17:00:00.000Z
-2026-11-18,ncaabase,,,231,459,VMI Keydets,VMI,,1418.1,,,2026-05-20T13:00:00.000Z
-2026-11-18,ncaabase,,,232,183,Nevada Wolf Pack,NEV,,1417.9,,,2026-05-22T01:05:00.000Z
-2026-11-18,ncaabase,,,233,260,Alcorn State Braves,ALCN,,1417.9,,,2026-04-07T23:30:00.000Z
-2026-11-18,ncaabase,,,234,300,Saint Louis Billikens,SLU,,1417.6,,,2026-02-28T23:00:00.000Z
-2026-11-18,ncaabase,,,235,100,Dartmouth Big Green,DART,,1416.7,,,2026-04-08T19:00:00.000Z
-2026-11-18,ncaabase,,,236,399,Nicholls Colonels,NICH,,1416.5,,,2026-05-15T18:00:00.000Z
-2026-11-18,ncaabase,,,237,267,San Francisco Dons,SF,,1416.4,,,2026-05-24T00:00:00.000Z
-2026-11-18,ncaabase,,,238,357,Georgetown Hoyas,GTWN,,1416.1,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,239,265,Manhattan Jaspers,MAN,,1414.8,,,2026-04-14T19:00:00.000Z
-2026-11-18,ncaabase,,,240,450,UMBC Retrievers,UMBC,,1414.6,,,2026-05-22T21:00:00.000Z
-2026-11-18,ncaabase,,,241,156,Austin Peay Governors,APSU,,1413.3,,,2026-05-19T18:00:00.000Z
-2026-11-18,ncaabase,,,242,367,Houston Christian Huskies,HCU,,1413.1,,,2026-05-16T18:00:00.000Z
-2026-11-18,ncaabase,,,243,125,UT Arlington Mavericks,UTA,,1412,,,2026-05-21T02:00:00.000Z
-2026-11-18,ncaabase,,,244,266,Sacred Heart Pioneers,SHU,,1411.6,,,2026-04-07T19:00:00.000Z
-2026-11-18,ncaabase,,,245,109,Ohio Bobcats,OHIO,,1411.1,,,2026-04-29T22:00:00.000Z
-2026-11-18,ncaabase,,,246,388,Mississippi Valley State Delta Devils,MVSU,,1411,,,2026-05-05T23:00:00.000Z
-2026-11-18,ncaabase,,,247,175,Marist Red Foxes,MRST,,1410.4,,,2026-05-22T19:00:00.000Z
-2026-11-18,ncaabase,,,248,162,Coppin State Eagles,COPP,,1409.7,,,2026-04-07T19:00:00.000Z
-2026-11-18,ncaabase,,,249,385,Maryland Eastern Shore Hawks,UMES,,1409.7,,,2026-04-07T20:00:00.000Z
-2026-11-18,ncaabase,,,250,458,Villanova Wildcats,VILL,,1407.3,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,251,1148,Merrimack Warriors,MRMK,,1406.8,,,2026-05-21T23:00:00.000Z
-2026-11-18,ncaabase,,,252,422,Rhode Island Rams,URI,,1405.5,,,2026-05-24T16:00:00.000Z
-2026-11-18,ncaabase,,,253,413,Pacific Tigers,PAC,,1405.1,,,2026-05-23T02:00:00.000Z
-2026-11-18,ncaabase,,,254,71,George Washington Revolutionaries,GW,,1404.3,,,2026-05-05T19:00:00.000Z
-2026-11-18,ncaabase,,,255,339,Delaware Blue Hens,DEL,,1401.5,,,2026-05-16T15:00:00.000Z
-2026-11-18,ncaabase,,,256,129,James Madison Dukes,JMU,,1400.3,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,257,352,Fairleigh Dickinson Knights,FDU,,1399.9,,,2026-05-24T15:00:00.000Z
-2026-11-18,ncaabase,,,258,441,Tennessee Tech Golden Eagles,TNTC,,1399.3,,,2026-04-28T20:00:00.000Z
-2026-11-18,ncaabase,,,259,442,UT Martin Skyhawks,UTM,,1398.8,,,2026-05-19T17:00:00.000Z
-2026-11-18,ncaabase,,,260,143,San Diego Toreros,USD,,1398.1,,,2026-05-16T20:00:00.000Z
-2026-11-18,ncaabase,,,261,317,Alabama A&M Bulldogs,AAMU,,1397.4,,,2026-04-14T23:00:00.000Z
-2026-11-18,ncaabase,,,262,429,SIU Edwardsville Cougars,SIUE,,1397,,,2026-05-23T18:00:00.000Z
-2026-11-18,ncaabase,,,263,301,South Dakota State Jackrabbits,SDST,,1394.5,,,2026-05-30T19:00:00.000Z
-2026-11-18,ncaabase,,,264,311,Siena Saints,SIE,,1394.2,,,2026-03-24T19:00:00.000Z
-2026-11-18,ncaabase,,,265,145,Lafayette Leopards,LAF,,1394.1,,,2026-04-07T19:00:00.000Z
-2026-11-18,ncaabase,,,266,186,Northwestern State Demons,NWST,,1390.9,,,2026-05-16T18:00:00.000Z
-2026-11-18,ncaabase,,,267,305,Towson Tigers,TOW,,1390.7,,,2026-05-16T18:00:00.000Z
-2026-11-18,ncaabase,,,268,105,St. Bonaventure Bonnies,SBU,,1390,,,2026-03-24T21:30:00.000Z
-2026-11-18,ncaabase,,,269,171,Le Moyne Dolphins,LEM,,1389.3,,,2026-05-22T16:00:00.000Z
-2026-11-18,ncaabase,,,270,348,Eastern Kentucky Colonels,EKU,,1387.6,,,2026-05-17T19:00:00.000Z
-2026-11-18,ncaabase,,,271,187,Pepperdine Waves,PEPP,,1386.2,,,2026-05-21T02:00:00.000Z
-2026-11-18,ncaabase,,,272,455,Utah Valley Wolverines,UVU,,1384.1,,,2026-05-13T00:00:00.000Z
-2026-11-18,ncaabase,,,273,303,Elon Phoenix,ELON,,1383.4,,,2026-05-14T21:30:00.000Z
-2026-11-18,ncaabase,,,274,106,Bowling Green Falcons,BGSU,,1383.2,,,2026-05-05T22:05:00.000Z
-2026-11-18,ncaabase,,,275,438,Stephen F. Austin Lumberjacks,SFA,,1380.3,,,2026-05-17T18:00:00.000Z
-2026-11-18,ncaabase,,,276,326,Butler Bulldogs,BUT,,1379.8,,,2026-05-16T15:00:00.000Z
-2026-11-18,ncaabase,,,277,850,St. Thomas Tommies,STMN,,1379.3,,,2026-05-05T23:05:00.000Z
-2026-11-18,ncaabase,,,278,101,Princeton Tigers,PRIN,,1378.8,,,2026-04-08T19:00:00.000Z
-2026-11-18,ncaabase,,,279,103,New Mexico State Aggies,NMSU,,1378.7,,,2026-05-16T20:00:00.000Z
-2026-11-18,ncaabase,,,280,138,Georgia Southern Eagles,GASO,,1378.6,,,2026-05-16T18:00:00.000Z
-2026-11-18,ncaabase,,,281,398,Niagara Purple Eagles,NIA,,1377.7,,,2026-05-22T23:00:00.000Z
-2026-11-18,ncaabase,,,282,354,Fordham Rams,FOR,,1376.4,,,2026-03-11T17:00:00.000Z
-2026-11-18,ncaabase,,,283,316,Akron Zips,AKR,,1374.2,,,2026-04-21T22:00:00.000Z
-2026-11-18,ncaabase,,,284,129706,New Haven Chargers,NHVN,,1373.5,,,2026-03-31T19:00:00.000Z
-2026-11-18,ncaabase,,,285,262,Belmont Bruins,BEL,,1370.6,,,2026-05-12T21:00:00.000Z
-2026-11-18,ncaabase,,,286,289,William & Mary Tribe,W&M,,1368.7,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,287,349,Eastern Michigan Eagles,EMU,,1368.3,,,2026-05-12T17:02:00.000Z
-2026-11-18,ncaabase,,,288,337,Davidson Wildcats,DAV,,1367.8,,,2026-05-21T13:00:00.000Z
-2026-11-18,ncaabase,,,289,421,Radford Highlanders,RAD,,1367.2,,,2026-05-21T01:15:00.000Z
-2026-11-18,ncaabase,,,290,321,Arkansas-Pine Bluff Golden Lions,UAPB,,1365.8,,,2026-05-23T22:00:00.000Z
-2026-11-18,ncaabase,,,291,425,Saint Joseph's Hawks,JOES,,1365.6,,,2026-05-23T01:30:00.000Z
-2026-11-18,ncaabase,,,292,428,Seattle U Redhawks,SEA,,1363.5,,,2026-05-16T20:00:00.000Z
-2026-11-18,ncaabase,,,293,141,Long Beach State Beach,LBSU,,1363.1,,,2026-05-16T20:00:00.000Z
-2026-11-18,ncaabase,,,294,407,Northern Colorado Bears,UNCO,,1363.1,,,2026-05-22T20:00:00.000Z
-2026-11-18,ncaabase,,,295,359,Grambling Tigers,GRAM,,1362.3,,,2026-05-21T18:10:00.000Z
-2026-11-18,ncaabase,,,296,340,Delaware State Hornets,DSU,,1362.1,,,2026-05-05T21:00:00.000Z
-2026-11-18,ncaabase,,,297,400,Norfolk State Spartans,NORF,,1360.7,,,2026-03-18T18:00:00.000Z
-2026-11-18,ncaabase,,,298,449,UMass Lowell River Hawks,UML,,1360.5,,,2026-05-21T23:00:00.000Z
-2026-11-18,ncaabase,,,299,324,Bradley Braves,BRAD,,1360.1,,,2026-05-10T15:00:00.000Z
-2026-11-18,ncaabase,,,300,194,Southern Jaguars,SOU,,1357.4,,,2026-05-23T18:30:00.000Z
-2026-11-18,ncaabase,,,301,302,Valparaiso Beacons,VALP,,1357.4,,,2026-04-14T19:30:00.000Z
-2026-11-18,ncaabase,,,302,393,Mount St. Mary's Mountaineers,MSM,,1352.1,,,2026-04-21T19:00:00.000Z
-2026-11-18,ncaabase,,,303,452,UNC Asheville Bulldogs,UNCA,,1348.4,,,2026-04-21T22:00:00.000Z
-2026-11-18,ncaabase,,,304,443,Texas A&M-Corpus Christi Islanders,AMCC,,1347,,,2026-05-05T23:30:00.000Z
-2026-11-18,ncaabase,,,305,157,Ball State Cardinals,BALL,,1345.6,,,2026-05-21T14:00:00.000Z
-2026-11-18,ncaabase,,,306,363,Harvard Crimson,HARV,,1345.1,,,2026-04-14T18:00:00.000Z
-2026-11-18,ncaabase,,,307,462,Western Illinois Leathernecks,WIU,,1341.9,,,2026-04-21T23:05:00.000Z
-2026-11-18,ncaabase,,,308,154,UAlbany Great Danes,ALB,,1340.5,,,2026-05-20T21:45:00.000Z
-2026-11-18,ncaabase,,,309,200,Texas Southern Tigers,TXSO,,1337.8,,,2026-05-23T00:30:00.000Z
-2026-11-18,ncaabase,,,310,410,Northern Kentucky Norse,NKU,,1331.2,,,2026-05-21T23:00:00.000Z
-2026-11-18,ncaabase,,,311,298,Canisius Golden Griffins,CAN,,1331.1,,,2026-05-20T23:00:00.000Z
-2026-11-18,ncaabase,,,312,460,Wagner Seahawks,WAG,,1329.6,,,2026-05-23T00:15:00.000Z
-2026-11-18,ncaabase,,,313,188,Prairie View A&M Panthers,PV,,1321.8,,,2026-05-05T23:00:00.000Z
-2026-11-18,ncaabase,,,314,1143,Bellarmine Knights,BELL,,1315.7,,,2026-05-17T19:00:00.000Z
-2026-11-18,ncaabase,,,315,209,Youngstown State Penguins,YSU,,1314.6,,,2026-05-21T00:00:00.000Z
-2026-11-18,ncaabase,,,316,1238,Queens University Royals,QUC,,1303.8,,,2026-05-16T16:00:00.000Z
-2026-11-18,ncaabase,,,317,401,North Carolina A&T Aggies,NCAT,,1303.4,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,318,129699,West Georgia Wolves,WES,,1302.6,,,2026-05-16T17:05:00.000Z
-2026-11-18,ncaabase,,,319,268,Seton Hall Pirates,HALL,,1299.5,,,2026-05-16T17:00:00.000Z
-2026-11-18,ncaabase,,,320,418,Presbyterian Blue Hose,PRES,,1296.8,,,2026-05-05T22:00:00.000Z
-2026-11-18,ncaabase,,,321,67,UC Riverside Highlanders,UCR,,1292.4,,,2026-05-16T20:05:00.000Z
-2026-11-18,ncaabase,,,322,174,Loyola Marymount Lions,LMU,,1236.9,,,2026-05-16T20:00:00.000Z
+2026-11-19,ncaabase,,,1,77,Georgia Tech Yellow Jackets,GT,,1902.9,,,2026-06-01T19:00:00.000Z
+2026-11-19,ncaabase,,,2,78,Georgia Bulldogs,UGA,,1902.1,,,2026-06-17T23:00:00.000Z
+2026-11-19,ncaabase,,,3,96,North Carolina Tar Heels,UNC,,1886.6,,,2026-06-22T23:00:00.000Z
+2026-11-19,ncaabase,,,4,66,UCLA Bruins,UCLA,,1881.4,,,2026-05-31T20:00:00.000Z
+2026-11-19,ncaabase,,,5,112,Oklahoma Sooners,OU,,1866.4,,,2026-06-22T23:00:00.000Z
+2026-11-19,ncaabase,,,6,126,Texas Longhorns,TEX,,1850.1,,,2026-06-17T00:00:00.000Z
+2026-11-19,ncaabase,,,7,55,Auburn Tigers,AUB,,1841.3,,,2026-06-06T21:00:00.000Z
+2026-11-19,ncaabase,,,8,136,West Virginia Mountaineers,WVU,,1840.6,,,2026-06-17T18:00:00.000Z
+2026-11-19,ncaabase,,,9,150,Mississippi State Bulldogs,MSST,,1837.6,,,2026-06-07T16:00:00.000Z
+2026-11-19,ncaabase,,,10,68,USC Trojans,USC,,1821.5,,,2026-06-07T19:00:00.000Z
+2026-11-19,ncaabase,,,11,273,Oregon Ducks,ORE,,1798.4,,,2026-06-08T01:00:00.000Z
+2026-11-19,ncaabase,,,12,75,Florida Gators,FLA,,1796.8,,,2026-06-01T22:00:00.000Z
+2026-11-19,ncaabase,,,13,123,Texas A&M Aggies,TA&M,,1787,,,2026-06-02T01:00:00.000Z
+2026-11-19,ncaabase,,,14,168,Kansas Jayhawks,KU,,1786.5,,,2026-06-08T00:30:00.000Z
+2026-11-19,ncaabase,,,15,58,Arkansas Razorbacks,ARK,,1779.9,,,2026-05-31T22:00:00.000Z
+2026-11-19,ncaabase,,,16,72,Florida State Seminoles,FSU,,1777.9,,,2026-06-01T16:00:00.000Z
+2026-11-19,ncaabase,,,17,92,Ole Miss Rebels,MISS,,1767.9,,,2026-06-14T18:00:00.000Z
+2026-11-19,ncaabase,,,18,113,Oregon State Beavers,ORST,,1765,,,2026-06-01T01:00:00.000Z
+2026-11-19,ncaabase,,,19,97,Wake Forest Demon Deacons,WAKE,,1759.8,,,2026-05-31T16:00:00.000Z
+2026-11-19,ncaabase,,,20,99,Nebraska Cornhuskers,NEB,,1750.5,,,2026-05-31T19:00:00.000Z
+2026-11-19,ncaabase,,,21,110,Oklahoma State Cowboys,OKST,,1742.6,,,2026-06-01T00:00:00.000Z
+2026-11-19,ncaabase,,,22,59,Arizona State Sun Devils,ASU,,1739.2,,,2026-06-01T00:00:00.000Z
+2026-11-19,ncaabase,,,23,73,Jacksonville State Gamecocks,JVST,,1729.6,,,2026-06-01T01:00:00.000Z
+2026-11-19,ncaabase,,,24,269,Troy Trojans,TROY,,1729.3,,,2026-06-16T18:00:00.000Z
+2026-11-19,ncaabase,,,25,148,Alabama Crimson Tide,ALA,,1728.6,,,2026-06-15T18:00:00.000Z
+2026-11-19,ncaabase,,,26,199,Tennessee Volunteers,TENN,,1722.6,,,2026-05-30T16:00:00.000Z
+2026-11-19,ncaabase,,,27,192,Southern Miss Golden Eagles,USM,,1716.4,,,2026-05-30T18:00:00.000Z
+2026-11-19,ncaabase,,,28,120,Vanderbilt Commodores,VAN,,1713.5,,,2026-05-20T17:45:00.000Z
+2026-11-19,ncaabase,,,29,94,East Carolina Pirates,ECU,,1705.1,,,2026-05-31T21:00:00.000Z
+2026-11-19,ncaabase,,,30,176,Miami Hurricanes,MIA,,1703.4,,,2026-05-31T16:00:00.000Z
+2026-11-19,ncaabase,,,31,198,TCU Horned Frogs,TCU,,1703,,,2026-05-21T03:00:00.000Z
+2026-11-19,ncaabase,,,32,81,Notre Dame Fighting Irish,ND,,1690.8,,,2026-05-20T21:00:00.000Z
+2026-11-19,ncaabase,,,33,293,Campbell Fighting Camels,CAM,,1690.1,,,2026-05-24T18:00:00.000Z
+2026-11-19,ncaabase,,,34,160,UCF Knights,UCF,,1687.3,,,2026-05-31T21:06:00.000Z
+2026-11-19,ncaabase,,,35,161,Cincinnati Bearcats,CIN,,1684.2,,,2026-05-31T19:00:00.000Z
+2026-11-19,ncaabase,,,36,82,Kentucky Wildcats,UK,,1684.2,,,2026-06-01T22:00:00.000Z
+2026-11-19,ncaabase,,,37,172,Liberty Flames,LIB,,1683.6,,,2026-05-31T21:00:00.000Z
+2026-11-19,ncaabase,,,38,85,LSU Tigers,LSU,,1674.8,,,2026-05-21T01:00:00.000Z
+2026-11-19,ncaabase,,,39,405,Northeastern Huskies,NE,,1671.6,,,2026-05-31T17:00:00.000Z
+2026-11-19,ncaabase,,,40,290,UC Santa Barbara Gauchos,UCSB,,1667.9,,,2026-05-31T22:00:00.000Z
+2026-11-19,ncaabase,,,41,297,UTSA Roadrunners,UTSA,,1665.2,,,2026-05-24T16:00:00.000Z
+2026-11-19,ncaabase,,,42,95,NC State Wolfpack,NCSU,,1660.2,,,2026-05-30T19:00:00.000Z
+2026-11-19,ncaabase,,,43,86,Boston College Eagles,BC,,1655.2,,,2026-05-31T16:00:00.000Z
+2026-11-19,ncaabase,,,44,131,Virginia Cavaliers,UVA,,1653.8,,,2026-05-31T20:00:00.000Z
+2026-11-19,ncaabase,,,45,117,Clemson Tigers,CLEM,,1650.9,,,2026-05-19T22:10:00.000Z
+2026-11-19,ncaabase,,,46,83,Louisville Cardinals,LOU,,1649,,,2026-05-20T01:35:00.000Z
+2026-11-19,ncaabase,,,47,115,Pittsburgh Panthers,PITT,,1648.5,,,2026-05-23T19:00:00.000Z
+2026-11-19,ncaabase,,,48,146,Coastal Carolina Chanticleers,CCU,,1647.7,,,2026-05-30T18:00:00.000Z
+2026-11-19,ncaabase,,,49,167,Iowa Hawkeyes,IOWA,,1646,,,2026-05-21T19:00:00.000Z
+2026-11-19,ncaabase,,,50,1105,California Baptist Lancers,CBU,,1643,,,2026-05-23T02:00:00.000Z
+2026-11-19,ncaabase,,,51,144,Louisiana Ragin' Cajuns,UL,,1641.4,,,2026-06-01T00:00:00.000Z
+2026-11-19,ncaabase,,,52,189,Purdue Boilermakers,PUR,,1635.8,,,2026-05-23T00:00:00.000Z
+2026-11-19,ncaabase,,,53,264,Kansas State Wildcats,KSU,,1634.8,,,2026-05-22T00:30:00.000Z
+2026-11-19,ncaabase,,,54,132,Virginia Tech Hokies,VT,,1633.3,,,2026-05-30T20:00:00.000Z
+2026-11-19,ncaabase,,,55,90,Minnesota Golden Gophers,MINN,,1631.9,,,2026-05-16T18:05:00.000Z
+2026-11-19,ncaabase,,,56,61,Cal Poly Mustangs,CP,,1626.6,,,2026-06-06T16:00:00.000Z
+2026-11-19,ncaabase,,,57,287,Gonzaga Bulldogs,GONZ,,1625.7,,,2026-05-22T17:00:00.000Z
+2026-11-19,ncaabase,,,58,263,Dallas Baptist Patriots,DBU,,1620.8,,,2026-05-23T17:42:00.000Z
+2026-11-19,ncaabase,,,59,89,Michigan Wolverines,MICH,,1612.3,,,2026-05-23T03:59:00.000Z
+2026-11-19,ncaabase,,,60,195,St. John's Red Storm,SJU,,1611.2,,,2026-06-07T20:00:00.000Z
+2026-11-19,ncaabase,,,61,65,California Golden Bears,CAL,,1608.8,,,2026-05-19T18:20:00.000Z
+2026-11-19,ncaabase,,,62,64,Stanford Cardinal,STAN,,1608.2,,,2026-05-20T17:00:00.000Z
+2026-11-19,ncaabase,,,63,88,Michigan State Spartans,MSU,,1605,,,2026-05-22T14:00:00.000Z
+2026-11-19,ncaabase,,,64,57,South Alabama Jaguars,USA,,1603.6,,,2026-05-23T14:00:00.000Z
+2026-11-19,ncaabase,,,65,108,Ohio State Buckeyes,OSU,,1602.6,,,2026-05-21T23:00:00.000Z
+2026-11-19,ncaabase,,,66,133,Washington Huskies,WASH,,1599.9,,,2026-05-23T15:00:00.000Z
+2026-11-19,ncaabase,,,67,197,Missouri State Bears,MOST,,1592.9,,,2026-05-30T18:30:00.000Z
+2026-11-19,ncaabase,,,68,93,Duke Blue Devils,DUKE,,1584.2,,,2026-05-20T13:00:00.000Z
+2026-11-19,ncaabase,,,69,121,Baylor Bears,BAY,,1576,,,2026-05-21T20:25:00.000Z
+2026-11-19,ncaabase,,,70,294,Indiana Hoosiers,IU,,1573.8,,,2026-05-16T18:00:00.000Z
+2026-11-19,ncaabase,,,71,147,Texas State Bobcats,TXST,,1572.9,,,2026-05-31T20:00:00.000Z
+2026-11-19,ncaabase,,,72,173,Louisiana Tech Bulldogs,LT,,1571.5,,,2026-05-22T13:00:00.000Z
+2026-11-19,ncaabase,,,73,153,Illinois Fighting Illini,ILL,,1571,,,2026-05-20T14:00:00.000Z
+2026-11-19,ncaabase,,,74,271,App State Mountaineers,APP,,1569.3,,,2026-05-21T18:04:00.000Z
+2026-11-19,ncaabase,,,75,128,Utah Utes,UTAH,,1567.3,,,2026-05-20T03:20:00.000Z
+2026-11-19,ncaabase,,,76,127,BYU Cougars,BYU,,1566.3,,,2026-05-20T23:30:00.000Z
+2026-11-19,ncaabase,,,77,122,Rice Owls,RICE,,1563.1,,,2026-05-22T20:30:00.000Z
+2026-11-19,ncaabase,,,78,98,Creighton Bluejays,CREI,,1562.5,,,2026-05-24T13:00:00.000Z
+2026-11-19,ncaabase,,,79,320,Arkansas State Red Wolves,ARST,,1559.4,,,2026-05-16T18:00:00.000Z
+2026-11-19,ncaabase,,,80,312,Xavier Musketeers,XU,,1559.3,,,2026-05-23T22:00:00.000Z
+2026-11-19,ncaabase,,,81,1147,UC San Diego Tritons,UCSD,,1557.9,,,2026-05-24T19:00:00.000Z
+2026-11-19,ncaabase,,,82,87,Maryland Terrapins,MD,,1557.9,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,83,69,UConn Huskies,CONN,,1557.2,,,2026-05-22T00:00:00.000Z
+2026-11-19,ncaabase,,,84,453,South Carolina Upstate Spartans,UPST,,1551.9,,,2026-05-31T19:00:00.000Z
+2026-11-19,ncaabase,,,85,76,South Florida Bulls,USF,,1550.5,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,86,180,Charlotte 49ers,CLT,,1549.6,,,2026-05-20T20:45:00.000Z
+2026-11-19,ncaabase,,,87,261,Little Rock Trojans,UALR,,1548.6,,,2026-06-06T19:00:00.000Z
+2026-11-19,ncaabase,,,88,426,Saint Mary's Gaels,SMC,,1546.7,,,2026-06-01T01:00:00.000Z
+2026-11-19,ncaabase,,,89,295,Mercer Bears,MER,,1545.8,,,2026-05-22T13:00:00.000Z
+2026-11-19,ncaabase,,,90,391,Morehead State Eagles,MORE,,1543.5,,,2026-05-19T21:00:00.000Z
+2026-11-19,ncaabase,,,91,291,Florida Gulf Coast Eagles,FGCU,,1542.1,,,2026-05-23T14:30:00.000Z
+2026-11-19,ncaabase,,,92,202,The Citadel Bulldogs,CIT,,1540.8,,,2026-05-31T17:00:00.000Z
+2026-11-19,ncaabase,,,93,84,Western Kentucky Hilltoppers,WKU,,1538.7,,,2026-05-22T16:30:00.000Z
+2026-11-19,ncaabase,,,94,447,UAB Blazers,UAB,,1538.1,,,2026-05-23T18:05:00.000Z
+2026-11-19,ncaabase,,,95,142,UC Irvine Anteaters,UCI,,1536.1,,,2026-05-16T20:00:00.000Z
+2026-11-19,ncaabase,,,96,60,Arizona Wildcats,ARIZ,,1534.9,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,97,206,Wichita State Shockers,WICH,,1533.8,,,2026-05-23T23:00:00.000Z
+2026-11-19,ncaabase,,,98,365,Hofstra Pride,HOF,,1533.7,,,2026-05-23T19:00:00.000Z
+2026-11-19,ncaabase,,,99,124,Houston Cougars,HOU,,1528.6,,,2026-05-16T18:00:00.000Z
+2026-11-19,ncaabase,,,100,102,Rutgers Scarlet Knights,RUTG,,1527.8,,,2026-05-20T18:00:00.000Z
+2026-11-19,ncaabase,,,101,208,Wofford Terriers,WOF,,1527.5,,,2026-05-21T20:50:00.000Z
+2026-11-19,ncaabase,,,102,1145,Tarleton State Texans,TAST,,1527.3,,,2026-05-31T17:00:00.000Z
+2026-11-19,ncaabase,,,103,119,Memphis Tigers,MEM,,1527,,,2026-05-23T01:07:00.000Z
+2026-11-19,ncaabase,,,104,314,Sacramento State Hornets,SAC,,1526.8,,,2026-05-23T22:00:00.000Z
+2026-11-19,ncaabase,,,105,79,Hawai'i Rainbow Warriors,HAW,,1523.8,,,2026-05-21T01:00:00.000Z
+2026-11-19,ncaabase,,,106,152,UNC Wilmington Seahawks,UNCW,,1522.5,,,2026-05-23T00:30:00.000Z
+2026-11-19,ncaabase,,,107,1103,North Alabama Lions,UNA,,1522.3,,,2026-05-23T18:45:00.000Z
+2026-11-19,ncaabase,,,108,201,Texas Tech Red Raiders,TTU,,1521.7,,,2026-05-19T23:30:00.000Z
+2026-11-19,ncaabase,,,109,204,VCU Rams,VCU,,1519.5,,,2026-05-31T16:00:00.000Z
+2026-11-19,ncaabase,,,110,274,Samford Bulldogs,SAM,,1519.2,,,2026-05-23T23:00:00.000Z
+2026-11-19,ncaabase,,,111,304,East Tennessee State Buccaneers,ETSU,,1517.9,,,2026-05-20T17:20:00.000Z
+2026-11-19,ncaabase,,,112,91,Missouri Tigers,MIZ,,1517.6,,,2026-05-20T14:30:00.000Z
+2026-11-19,ncaabase,,,113,358,Georgia State Panthers,GAST,,1515.7,,,2026-05-21T22:23:00.000Z
+2026-11-19,ncaabase,,,114,307,Kennesaw State Owls,KENN,,1515.5,,,2026-05-22T00:05:00.000Z
+2026-11-19,ncaabase,,,115,140,Old Dominion Monarchs,ODU,,1514,,,2026-05-19T23:30:00.000Z
+2026-11-19,ncaabase,,,116,466,Yale Bulldogs,YALE,,1513.4,,,2026-05-30T20:00:00.000Z
+2026-11-19,ncaabase,,,117,270,Wright State Raiders,WRST,,1510,,,2026-05-23T20:25:00.000Z
+2026-11-19,ncaabase,,,118,427,Santa Clara Broncos,SCU,,1509.8,,,2026-05-20T21:00:00.000Z
+2026-11-19,ncaabase,,,119,394,Murray State Racers,MUR,,1508.1,,,2026-05-24T00:15:00.000Z
+2026-11-19,ncaabase,,,120,169,Kent State Golden Flashes,KENT,,1504.5,,,2026-05-23T15:45:00.000Z
+2026-11-19,ncaabase,,,121,134,Washington State Cougars,WSU,,1500,,,2026-05-31T20:00:00.000Z
+2026-11-19,ncaabase,,,122,364,High Point Panthers,HPU,,1499.8,,,2026-05-24T02:10:00.000Z
+2026-11-19,ncaabase,,,123,118,Charleston Cougars,COFC,,1498.7,,,2026-05-21T15:00:00.000Z
+2026-11-19,ncaabase,,,124,448,UC Davis Aggies,UCD,,1498.6,,,2026-05-15T19:00:00.000Z
+2026-11-19,ncaabase,,,125,296,North Florida Ospreys,NFLA,,1498.5,,,2026-05-22T14:00:00.000Z
+2026-11-19,ncaabase,,,126,163,Florida Atlantic Owls,FAU,,1497.3,,,2026-05-20T17:00:00.000Z
+2026-11-19,ncaabase,,,127,170,Lamar Cardinals,LAM,,1496.6,,,2026-05-30T20:00:00.000Z
+2026-11-19,ncaabase,,,128,309,SE Louisiana Lions,SELA,,1496.5,,,2026-05-17T18:00:00.000Z
+2026-11-19,ncaabase,,,129,408,Northern Illinois Huskies,NIU,,1496.5,,,2026-05-31T23:10:00.000Z
+2026-11-19,ncaabase,,,130,932,UT Rio Grande Valley Vaqueros,RGV,,1495.5,,,2026-05-15T18:00:00.000Z
+2026-11-19,ncaabase,,,131,129704,Westcliff,WES,,1492.2,,,2026-03-10T18:00:00.000Z
+2026-11-19,ncaabase,,,132,191,Southeast Missouri State Redhawks,SEMO,,1491.9,,,2026-05-21T21:30:00.000Z
+2026-11-19,ncaabase,,,133,178,Monmouth Hawks,MONM,,1490.3,,,2026-05-22T20:00:00.000Z
+2026-11-19,ncaabase,,,134,193,South Carolina Gamecocks,SC,,1490.3,,,2026-05-19T22:35:00.000Z
+2026-11-19,ncaabase,,,135,129773,Washburn Ichabods,WSBN,,1490.1,,,2026-03-31T16:00:00.000Z
+2026-11-19,ncaabase,,,136,832,Hawaiʻi Pacific Sea Warriors,HPU,,1489.6,,,2026-03-26T04:35:00.000Z
+2026-11-19,ncaabase,,,137,926,Lindenwood Lions,LIN,,1488.3,,,2026-05-22T01:50:00.000Z
+2026-11-19,ncaabase,,,138,129772,Oakland City Mighty Oaks,OCU,,1488.1,,,2026-03-18T20:00:00.000Z
+2026-11-19,ncaabase,,,139,351,Fairfield Stags,FAIR,,1488,,,2026-05-23T18:15:00.000Z
+2026-11-19,ncaabase,,,140,129756,Wartburg Knights,WTBG,,1487.9,,,2026-02-24T21:05:00.000Z
+2026-11-19,ncaabase,,,141,1246,Southern Indiana Screaming Eagles,USI,,1487,,,2026-05-22T23:20:00.000Z
+2026-11-19,ncaabase,,,142,63,San José State Spartans,SJSU,,1485.2,,,2026-04-28T21:00:00.000Z
+2026-11-19,ncaabase,,,143,423,Rider Broncs,RID,,1484.3,,,2026-05-30T19:00:00.000Z
+2026-11-19,ncaabase,,,144,847,Hawaiʻi Hilo Vulcans,HILO,,1483.9,,,2026-04-30T04:30:00.000Z
+2026-11-19,ncaabase,,,145,1191,Roosevelt Lakers,ROO,,1483.5,,,2026-04-28T23:00:00.000Z
+2026-11-19,ncaabase,,,146,272,UL Monroe Warhawks,ULM,,1482.8,,,2026-05-16T18:00:00.000Z
+2026-11-19,ncaabase,,,147,129760,Cal State Los Angeles Golden Eagles,CSLA,,1482.4,,,2026-04-22T01:30:00.000Z
+2026-11-19,ncaabase,,,148,129763,Wisconsin Platteville Pioneers,UWP,,1482.3,,,2026-02-17T21:05:00.000Z
+2026-11-19,ncaabase,,,149,139,Jacksonville Dolphins,JAX,,1480.7,,,2026-05-20T18:00:00.000Z
+2026-11-19,ncaabase,,,150,380,Longwood Lancers,LONG,,1480.3,,,2026-05-24T21:30:00.000Z
+2026-11-19,ncaabase,,,151,203,Tulane Green Wave,TULN,,1479.8,,,2026-05-16T18:00:00.000Z
+2026-11-19,ncaabase,,,152,155,Air Force Falcons,AFA,,1478.3,,,2026-05-24T01:05:00.000Z
+2026-11-19,ncaabase,,,153,360,Grand Canyon Lopes,GCU,,1477.6,,,2026-04-29T02:00:00.000Z
+2026-11-19,ncaabase,,,154,62,San Diego State Aztecs,SDSU,,1477.5,,,2026-05-24T22:45:00.000Z
+2026-11-19,ncaabase,,,155,387,McNeese Cowboys,MCN,,1477.2,,,2026-05-22T23:00:00.000Z
+2026-11-19,ncaabase,,,156,165,Cal State Fullerton Titans,CSUF,,1477,,,2026-05-23T01:00:00.000Z
+2026-11-19,ncaabase,,,157,129761,Chaminade,129761,,1476.2,,,2026-03-11T04:30:00.000Z
+2026-11-19,ncaabase,,,158,328,Central Michigan Chippewas,CMU,,1475.7,,,2026-04-28T21:30:00.000Z
+2026-11-19,ncaabase,,,159,190,Sam Houston Bearkats,SHSU,,1475.4,,,2026-05-21T14:00:00.000Z
+2026-11-19,ncaabase,,,160,151,Army Black Knights,ARMY,,1473.8,,,2026-05-10T19:55:00.000Z
+2026-11-19,ncaabase,,,161,196,Stony Brook Seawolves,STBK,,1473.5,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,162,129775,University Of British Columbia University,129775,,1473.4,,,2026-04-07T04:00:00.000Z
+2026-11-19,ncaabase,,,163,205,Western Carolina Catamounts,WCU,,1471.9,,,2026-05-22T16:30:00.000Z
+2026-11-19,ncaabase,,,164,378,Lipscomb Bisons,LIP,,1471.2,,,2026-05-30T20:00:00.000Z
+2026-11-19,ncaabase,,,165,329,Charleston Southern Buccaneers,CHSO,,1471.1,,,2026-05-22T19:20:00.000Z
+2026-11-19,ncaabase,,,166,1189,Loras Duhawks,LOR,,1471,,,2026-03-04T22:00:00.000Z
+2026-11-19,ncaabase,,,167,259,Maine Black Bears,ME,,1470.2,,,2026-05-24T00:05:00.000Z
+2026-11-19,ncaabase,,,168,129759,Kentucky State Kentucky S,129759,,1469.9,,,2026-04-14T22:00:00.000Z
+2026-11-19,ncaabase,,,169,379,Long Island University Sharks,LIU,,1467.9,,,2026-05-30T16:00:00.000Z
+2026-11-19,ncaabase,,,170,347,Eastern Illinois Panthers,EIU,,1467.5,,,2026-05-24T17:00:00.000Z
+2026-11-19,ncaabase,,,171,116,Brown Bears,BRWN,,1466.1,,,2026-05-17T20:00:00.000Z
+2026-11-19,ncaabase,,,172,366,Holy Cross Crusaders,HC,,1465.6,,,2026-05-30T18:00:00.000Z
+2026-11-19,ncaabase,,,173,135,Milwaukee Panthers,MILW,,1465.2,,,2026-06-02T01:00:00.000Z
+2026-11-19,ncaabase,,,174,414,Penn State Nittany Lions,PSU,,1463.7,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,175,166,George Mason Patriots,GMU,,1463.2,,,2026-05-22T22:00:00.000Z
+2026-11-19,ncaabase,,,176,181,UNC Greensboro Spartans,UNCG,,1461.4,,,2026-05-22T00:30:00.000Z
+2026-11-19,ncaabase,,,177,74,Stetson Hatters,STET,,1459.5,,,2026-05-19T22:00:00.000Z
+2026-11-19,ncaabase,,,178,185,Cal State Northridge Matadors,CSUN,,1459.4,,,2026-05-16T04:35:00.000Z
+2026-11-19,ncaabase,,,179,318,Alabama State Hornets,ALST,,1459.4,,,2026-05-30T18:00:00.000Z
+2026-11-19,ncaabase,,,180,129698,Mercyhurst Lakers,MER,,1459,,,2026-03-31T19:00:00.000Z
+2026-11-19,ncaabase,,,181,420,Quinnipiac Bobcats,QUIN,,1457.5,,,2026-03-25T19:00:00.000Z
+2026-11-19,ncaabase,,,182,182,UNLV Rebels,UNLV,,1457.4,,,2026-05-21T20:05:00.000Z
+2026-11-19,ncaabase,,,183,288,Illinois State Redbirds,ILST,,1456.8,,,2026-05-21T15:00:00.000Z
+2026-11-19,ncaabase,,,184,308,Indiana State Sycamores,ISA,,1456.1,,,2026-05-23T20:00:00.000Z
+2026-11-19,ncaabase,,,185,416,Portland Pilots,PORT,,1456.1,,,2026-05-16T20:00:00.000Z
+2026-11-19,ncaabase,,,186,384,Marshall Thundering Herd,MRSH,,1455.5,,,2026-05-19T20:00:00.000Z
+2026-11-19,ncaabase,,,187,1146,Utah Tech Trailblazers,UTU,,1453.7,,,2026-05-22T22:00:00.000Z
+2026-11-19,ncaabase,,,188,411,Northwestern Wildcats,NU,,1452.1,,,2026-05-16T18:00:00.000Z
+2026-11-19,ncaabase,,,189,306,Central Arkansas Bears,CARK,,1451.9,,,2026-05-21T13:00:00.000Z
+2026-11-19,ncaabase,,,190,149,Evansville Purple Aces,EVAN,,1451.1,,,2026-05-22T02:15:00.000Z
+2026-11-19,ncaabase,,,191,159,Central Connecticut Blue Devils,CCSU,,1451.1,,,2026-04-07T19:00:00.000Z
+2026-11-19,ncaabase,,,192,137,Fresno State Bulldogs,FRES,,1449.7,,,2026-05-13T00:05:00.000Z
+2026-11-19,ncaabase,,,193,130,Richmond Spiders,RICH,,1448.4,,,2026-05-22T15:00:00.000Z
+2026-11-19,ncaabase,,,194,111,Oral Roberts Golden Eagles,ORU,,1446.9,,,2026-05-23T21:00:00.000Z
+2026-11-19,ncaabase,,,195,284,Columbia Lions,COLU,,1446.8,,,2026-05-17T16:00:00.000Z
+2026-11-19,ncaabase,,,196,844,Saint Martin's Saints,SM,,1445.9,,,2026-03-25T04:00:00.000Z
+2026-11-19,ncaabase,,,197,292,Binghamton Bearcats,BING,,1444.7,,,2026-05-30T16:00:00.000Z
+2026-11-19,ncaabase,,,198,80,UIC Flames,UIC,,1443.3,,,2026-05-30T18:06:00.000Z
+2026-11-19,ncaabase,,,199,129762,Southwest Mustangs,USW,,1443,,,2026-03-10T22:00:00.000Z
+2026-11-19,ncaabase,,,200,445,Toledo Rockets,TOL,,1442.4,,,2026-05-23T22:00:00.000Z
+2026-11-19,ncaabase,,,201,179,Navy Midshipmen,NAVY,,1440,,,2026-05-11T17:00:00.000Z
+2026-11-19,ncaabase,,,202,299,Bryant Bulldogs,BRY,,1439.7,,,2026-05-20T17:00:00.000Z
+2026-11-19,ncaabase,,,203,1245,Stonehill Skyhawks,STO,,1438.7,,,2026-02-22T16:00:00.000Z
+2026-11-19,ncaabase,,,204,310,North Dakota State Bison,NDSU,,1437.5,,,2026-04-28T16:00:00.000Z
+2026-11-19,ncaabase,,,205,104,New Mexico Lobos,UNM,,1437.4,,,2026-05-23T16:05:00.000Z
+2026-11-19,ncaabase,,,206,338,Dayton Flyers,DAY,,1437.4,,,2026-05-12T22:00:00.000Z
+2026-11-19,ncaabase,,,207,371,Incarnate Word Cardinals,IW,,1436.9,,,2026-04-28T23:00:00.000Z
+2026-11-19,ncaabase,,,208,107,Miami (OH) RedHawks,M-OH,,1436.2,,,2026-05-22T14:00:00.000Z
+2026-11-19,ncaabase,,,209,285,Jackson State Tigers,JACS,,1435.6,,,2026-05-21T14:00:00.000Z
+2026-11-19,ncaabase,,,210,463,Western Michigan Broncos,WMU,,1434.3,,,2026-05-22T17:00:00.000Z
+2026-11-19,ncaabase,,,211,315,Abilene Christian Wildcats,ACU,,1432.5,,,2026-05-22T02:35:00.000Z
+2026-11-19,ncaabase,,,212,437,Saint Peter's Peacocks,SPU,,1432,,,2026-05-05T20:00:00.000Z
+2026-11-19,ncaabase,,,213,353,Florida A&M Rattlers,FAMU,,1430.9,,,2026-05-24T21:00:00.000Z
+2026-11-19,ncaabase,,,214,356,Gardner-Webb Runnin' Bulldogs,GWEB,,1430.1,,,2026-05-12T22:00:00.000Z
+2026-11-19,ncaabase,,,215,158,Bethune-Cookman Wildcats,BCU,,1429.1,,,2026-05-23T14:00:00.000Z
+2026-11-19,ncaabase,,,216,432,Southern Illinois Salukis,SIU,,1429.1,,,2026-05-24T21:05:00.000Z
+2026-11-19,ncaabase,,,217,313,Bucknell Bison,BUCK,,1428.9,,,2026-05-20T14:00:00.000Z
+2026-11-19,ncaabase,,,218,327,Cal State Bakersfield Roadrunners,CSUB,,1428.9,,,2026-05-16T20:00:00.000Z
+2026-11-19,ncaabase,,,219,386,Massachusetts Minutemen,MASS,,1428.1,,,2026-04-14T18:00:00.000Z
+2026-11-19,ncaabase,,,220,395,NJIT Highlanders,NJIT,,1428.1,,,2026-05-10T20:00:00.000Z
+2026-11-19,ncaabase,,,221,164,Florida International Panthers,FIU,,1427.5,,,2026-05-16T20:00:00.000Z
+2026-11-19,ncaabase,,,222,336,Cornell Big Red,COR,,1426.1,,,2026-02-22T15:00:00.000Z
+2026-11-19,ncaabase,,,223,376,La Salle Explorers,LAS,,1425.9,,,2026-03-10T19:30:00.000Z
+2026-11-19,ncaabase,,,224,184,LSU New Orleans Privateers,UNO,,1425.6,,,2026-05-05T23:00:00.000Z
+2026-11-19,ncaabase,,,225,177,Middle Tennessee Blue Raiders,MTSU,,1423.8,,,2026-05-21T20:10:00.000Z
+2026-11-19,ncaabase,,,226,377,Lehigh Mountain Hawks,LEH,,1423.4,,,2026-04-29T20:00:00.000Z
+2026-11-19,ncaabase,,,227,207,Winthrop Eagles,WIN,,1419.8,,,2026-05-23T18:00:00.000Z
+2026-11-19,ncaabase,,,228,415,Pennsylvania Quakers,PENN,,1419.8,,,2026-05-16T16:00:00.000Z
+2026-11-19,ncaabase,,,229,412,Oakland Golden Grizzlies,OAK,,1419.4,,,2026-05-23T16:30:00.000Z
+2026-11-19,ncaabase,,,230,396,Omaha Mavericks,OMA,,1418.2,,,2026-05-21T17:00:00.000Z
+2026-11-19,ncaabase,,,231,459,VMI Keydets,VMI,,1418.1,,,2026-05-20T13:00:00.000Z
+2026-11-19,ncaabase,,,232,183,Nevada Wolf Pack,NEV,,1417.9,,,2026-05-22T01:05:00.000Z
+2026-11-19,ncaabase,,,233,260,Alcorn State Braves,ALCN,,1417.9,,,2026-04-07T23:30:00.000Z
+2026-11-19,ncaabase,,,234,300,Saint Louis Billikens,SLU,,1417.6,,,2026-02-28T23:00:00.000Z
+2026-11-19,ncaabase,,,235,100,Dartmouth Big Green,DART,,1416.7,,,2026-04-08T19:00:00.000Z
+2026-11-19,ncaabase,,,236,399,Nicholls Colonels,NICH,,1416.5,,,2026-05-15T18:00:00.000Z
+2026-11-19,ncaabase,,,237,267,San Francisco Dons,SF,,1416.4,,,2026-05-24T00:00:00.000Z
+2026-11-19,ncaabase,,,238,357,Georgetown Hoyas,GTWN,,1416.1,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,239,265,Manhattan Jaspers,MAN,,1414.8,,,2026-04-14T19:00:00.000Z
+2026-11-19,ncaabase,,,240,450,UMBC Retrievers,UMBC,,1414.6,,,2026-05-22T21:00:00.000Z
+2026-11-19,ncaabase,,,241,156,Austin Peay Governors,APSU,,1413.3,,,2026-05-19T18:00:00.000Z
+2026-11-19,ncaabase,,,242,367,Houston Christian Huskies,HCU,,1413.1,,,2026-05-16T18:00:00.000Z
+2026-11-19,ncaabase,,,243,125,UT Arlington Mavericks,UTA,,1412,,,2026-05-21T02:00:00.000Z
+2026-11-19,ncaabase,,,244,266,Sacred Heart Pioneers,SHU,,1411.6,,,2026-04-07T19:00:00.000Z
+2026-11-19,ncaabase,,,245,109,Ohio Bobcats,OHIO,,1411.1,,,2026-04-29T22:00:00.000Z
+2026-11-19,ncaabase,,,246,388,Mississippi Valley State Delta Devils,MVSU,,1411,,,2026-05-05T23:00:00.000Z
+2026-11-19,ncaabase,,,247,175,Marist Red Foxes,MRST,,1410.4,,,2026-05-22T19:00:00.000Z
+2026-11-19,ncaabase,,,248,162,Coppin State Eagles,COPP,,1409.7,,,2026-04-07T19:00:00.000Z
+2026-11-19,ncaabase,,,249,385,Maryland Eastern Shore Hawks,UMES,,1409.7,,,2026-04-07T20:00:00.000Z
+2026-11-19,ncaabase,,,250,458,Villanova Wildcats,VILL,,1407.3,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,251,1148,Merrimack Warriors,MRMK,,1406.8,,,2026-05-21T23:00:00.000Z
+2026-11-19,ncaabase,,,252,422,Rhode Island Rams,URI,,1405.5,,,2026-05-24T16:00:00.000Z
+2026-11-19,ncaabase,,,253,413,Pacific Tigers,PAC,,1405.1,,,2026-05-23T02:00:00.000Z
+2026-11-19,ncaabase,,,254,71,George Washington Revolutionaries,GW,,1404.3,,,2026-05-05T19:00:00.000Z
+2026-11-19,ncaabase,,,255,339,Delaware Blue Hens,DEL,,1401.5,,,2026-05-16T15:00:00.000Z
+2026-11-19,ncaabase,,,256,129,James Madison Dukes,JMU,,1400.3,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,257,352,Fairleigh Dickinson Knights,FDU,,1399.9,,,2026-05-24T15:00:00.000Z
+2026-11-19,ncaabase,,,258,441,Tennessee Tech Golden Eagles,TNTC,,1399.3,,,2026-04-28T20:00:00.000Z
+2026-11-19,ncaabase,,,259,442,UT Martin Skyhawks,UTM,,1398.8,,,2026-05-19T17:00:00.000Z
+2026-11-19,ncaabase,,,260,143,San Diego Toreros,USD,,1398.1,,,2026-05-16T20:00:00.000Z
+2026-11-19,ncaabase,,,261,317,Alabama A&M Bulldogs,AAMU,,1397.4,,,2026-04-14T23:00:00.000Z
+2026-11-19,ncaabase,,,262,429,SIU Edwardsville Cougars,SIUE,,1397,,,2026-05-23T18:00:00.000Z
+2026-11-19,ncaabase,,,263,301,South Dakota State Jackrabbits,SDST,,1394.5,,,2026-05-30T19:00:00.000Z
+2026-11-19,ncaabase,,,264,311,Siena Saints,SIE,,1394.2,,,2026-03-24T19:00:00.000Z
+2026-11-19,ncaabase,,,265,145,Lafayette Leopards,LAF,,1394.1,,,2026-04-07T19:00:00.000Z
+2026-11-19,ncaabase,,,266,186,Northwestern State Demons,NWST,,1390.9,,,2026-05-16T18:00:00.000Z
+2026-11-19,ncaabase,,,267,305,Towson Tigers,TOW,,1390.7,,,2026-05-16T18:00:00.000Z
+2026-11-19,ncaabase,,,268,105,St. Bonaventure Bonnies,SBU,,1390,,,2026-03-24T21:30:00.000Z
+2026-11-19,ncaabase,,,269,171,Le Moyne Dolphins,LEM,,1389.3,,,2026-05-22T16:00:00.000Z
+2026-11-19,ncaabase,,,270,348,Eastern Kentucky Colonels,EKU,,1387.6,,,2026-05-17T19:00:00.000Z
+2026-11-19,ncaabase,,,271,187,Pepperdine Waves,PEPP,,1386.2,,,2026-05-21T02:00:00.000Z
+2026-11-19,ncaabase,,,272,455,Utah Valley Wolverines,UVU,,1384.1,,,2026-05-13T00:00:00.000Z
+2026-11-19,ncaabase,,,273,303,Elon Phoenix,ELON,,1383.4,,,2026-05-14T21:30:00.000Z
+2026-11-19,ncaabase,,,274,106,Bowling Green Falcons,BGSU,,1383.2,,,2026-05-05T22:05:00.000Z
+2026-11-19,ncaabase,,,275,438,Stephen F. Austin Lumberjacks,SFA,,1380.3,,,2026-05-17T18:00:00.000Z
+2026-11-19,ncaabase,,,276,326,Butler Bulldogs,BUT,,1379.8,,,2026-05-16T15:00:00.000Z
+2026-11-19,ncaabase,,,277,850,St. Thomas Tommies,STMN,,1379.3,,,2026-05-05T23:05:00.000Z
+2026-11-19,ncaabase,,,278,101,Princeton Tigers,PRIN,,1378.8,,,2026-04-08T19:00:00.000Z
+2026-11-19,ncaabase,,,279,103,New Mexico State Aggies,NMSU,,1378.7,,,2026-05-16T20:00:00.000Z
+2026-11-19,ncaabase,,,280,138,Georgia Southern Eagles,GASO,,1378.6,,,2026-05-16T18:00:00.000Z
+2026-11-19,ncaabase,,,281,398,Niagara Purple Eagles,NIA,,1377.7,,,2026-05-22T23:00:00.000Z
+2026-11-19,ncaabase,,,282,354,Fordham Rams,FOR,,1376.4,,,2026-03-11T17:00:00.000Z
+2026-11-19,ncaabase,,,283,316,Akron Zips,AKR,,1374.2,,,2026-04-21T22:00:00.000Z
+2026-11-19,ncaabase,,,284,129706,New Haven Chargers,NHVN,,1373.5,,,2026-03-31T19:00:00.000Z
+2026-11-19,ncaabase,,,285,262,Belmont Bruins,BEL,,1370.6,,,2026-05-12T21:00:00.000Z
+2026-11-19,ncaabase,,,286,289,William & Mary Tribe,W&M,,1368.7,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,287,349,Eastern Michigan Eagles,EMU,,1368.3,,,2026-05-12T17:02:00.000Z
+2026-11-19,ncaabase,,,288,337,Davidson Wildcats,DAV,,1367.8,,,2026-05-21T13:00:00.000Z
+2026-11-19,ncaabase,,,289,421,Radford Highlanders,RAD,,1367.2,,,2026-05-21T01:15:00.000Z
+2026-11-19,ncaabase,,,290,321,Arkansas-Pine Bluff Golden Lions,UAPB,,1365.8,,,2026-05-23T22:00:00.000Z
+2026-11-19,ncaabase,,,291,425,Saint Joseph's Hawks,JOES,,1365.6,,,2026-05-23T01:30:00.000Z
+2026-11-19,ncaabase,,,292,428,Seattle U Redhawks,SEA,,1363.5,,,2026-05-16T20:00:00.000Z
+2026-11-19,ncaabase,,,293,141,Long Beach State Beach,LBSU,,1363.1,,,2026-05-16T20:00:00.000Z
+2026-11-19,ncaabase,,,294,407,Northern Colorado Bears,UNCO,,1363.1,,,2026-05-22T20:00:00.000Z
+2026-11-19,ncaabase,,,295,359,Grambling Tigers,GRAM,,1362.3,,,2026-05-21T18:10:00.000Z
+2026-11-19,ncaabase,,,296,340,Delaware State Hornets,DSU,,1362.1,,,2026-05-05T21:00:00.000Z
+2026-11-19,ncaabase,,,297,400,Norfolk State Spartans,NORF,,1360.7,,,2026-03-18T18:00:00.000Z
+2026-11-19,ncaabase,,,298,449,UMass Lowell River Hawks,UML,,1360.5,,,2026-05-21T23:00:00.000Z
+2026-11-19,ncaabase,,,299,324,Bradley Braves,BRAD,,1360.1,,,2026-05-10T15:00:00.000Z
+2026-11-19,ncaabase,,,300,194,Southern Jaguars,SOU,,1357.4,,,2026-05-23T18:30:00.000Z
+2026-11-19,ncaabase,,,301,302,Valparaiso Beacons,VALP,,1357.4,,,2026-04-14T19:30:00.000Z
+2026-11-19,ncaabase,,,302,393,Mount St. Mary's Mountaineers,MSM,,1352.1,,,2026-04-21T19:00:00.000Z
+2026-11-19,ncaabase,,,303,452,UNC Asheville Bulldogs,UNCA,,1348.4,,,2026-04-21T22:00:00.000Z
+2026-11-19,ncaabase,,,304,443,Texas A&M-Corpus Christi Islanders,AMCC,,1347,,,2026-05-05T23:30:00.000Z
+2026-11-19,ncaabase,,,305,157,Ball State Cardinals,BALL,,1345.6,,,2026-05-21T14:00:00.000Z
+2026-11-19,ncaabase,,,306,363,Harvard Crimson,HARV,,1345.1,,,2026-04-14T18:00:00.000Z
+2026-11-19,ncaabase,,,307,462,Western Illinois Leathernecks,WIU,,1341.9,,,2026-04-21T23:05:00.000Z
+2026-11-19,ncaabase,,,308,154,UAlbany Great Danes,ALB,,1340.5,,,2026-05-20T21:45:00.000Z
+2026-11-19,ncaabase,,,309,200,Texas Southern Tigers,TXSO,,1337.8,,,2026-05-23T00:30:00.000Z
+2026-11-19,ncaabase,,,310,410,Northern Kentucky Norse,NKU,,1331.2,,,2026-05-21T23:00:00.000Z
+2026-11-19,ncaabase,,,311,298,Canisius Golden Griffins,CAN,,1331.1,,,2026-05-20T23:00:00.000Z
+2026-11-19,ncaabase,,,312,460,Wagner Seahawks,WAG,,1329.6,,,2026-05-23T00:15:00.000Z
+2026-11-19,ncaabase,,,313,188,Prairie View A&M Panthers,PV,,1321.8,,,2026-05-05T23:00:00.000Z
+2026-11-19,ncaabase,,,314,1143,Bellarmine Knights,BELL,,1315.7,,,2026-05-17T19:00:00.000Z
+2026-11-19,ncaabase,,,315,209,Youngstown State Penguins,YSU,,1314.6,,,2026-05-21T00:00:00.000Z
+2026-11-19,ncaabase,,,316,1238,Queens University Royals,QUC,,1303.8,,,2026-05-16T16:00:00.000Z
+2026-11-19,ncaabase,,,317,401,North Carolina A&T Aggies,NCAT,,1303.4,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,318,129699,West Georgia Wolves,WES,,1302.6,,,2026-05-16T17:05:00.000Z
+2026-11-19,ncaabase,,,319,268,Seton Hall Pirates,HALL,,1299.5,,,2026-05-16T17:00:00.000Z
+2026-11-19,ncaabase,,,320,418,Presbyterian Blue Hose,PRES,,1296.8,,,2026-05-05T22:00:00.000Z
+2026-11-19,ncaabase,,,321,67,UC Riverside Highlanders,UCR,,1292.4,,,2026-05-16T20:05:00.000Z
+2026-11-19,ncaabase,,,322,174,Loyola Marymount Lions,LMU,,1236.9,,,2026-05-16T20:00:00.000Z
