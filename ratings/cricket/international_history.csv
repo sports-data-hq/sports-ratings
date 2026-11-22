@@ -947,3 +947,240 @@ date,league,variant,group,rank,id,name,abbrev,country,rating,games,last_played,a
 2026-11-21,international,t20,female,84,saudi-arabia-women,Saudi Arabia,,,1182,13,,2026-06-06
 2026-11-21,international,t20,female,85,bahrain-women,Bahrain,,,1138,35,,2026-06-07
 2026-11-21,international,t20,female,86,eswatini-women,Eswatini,,,1104,20,,2025-07-26
+2026-11-22,international,test,male,1,australia,Australia,,,1658,233,,2026-10-27
+2026-11-22,international,test,male,2,south-africa,South Africa,,,1618,195,,2026-10-27
+2026-11-22,international,test,male,3,india,India,,,1610,219,,2026-08-23
+2026-11-22,international,test,male,4,england,England,,,1579,278,,2026-09-09
+2026-11-22,international,test,male,5,new-zealand,New Zealand,,,1575,169,,2026-06-25
+2026-11-22,international,test,male,6,sri-lanka,Sri Lanka,,,1466,178,,2026-08-23
+2026-11-22,international,test,male,7,pakistan,Pakistan,,,1443,164,,2026-09-09
+2026-11-22,international,test,male,8,west-indies,West Indies,,,1402,174,,2026-10-28
+2026-11-22,international,test,male,9,ireland,Ireland,,,1348,11,,2026-05-27
+2026-11-22,international,test,male,10,bangladesh,Bangladesh,,,1347,126,,2026-10-28
+2026-11-22,international,test,male,11,zimbabwe,Zimbabwe,,,1221,50,,2026-06-28
+2026-11-22,international,test,female,1,india-women,India,,,1566,9,,2026-07-10
+2026-11-22,international,test,female,2,australia-women,Australia,,,1549,16,,2026-03-06
+2026-11-22,international,test,female,3,england-women,England,,,1446,19,,2026-07-10
+2026-11-22,international,test,female,4,south-africa-women,South Africa,,,1435,4,,2024-12-15
+2026-11-22,international,odi,male,1,india,India,,,1763,506,,2026-10-03
+2026-11-22,international,odi,male,2,new-zealand,New Zealand,,,1733,377,,2026-07-21
+2026-11-22,international,odi,male,3,australia,Australia,,,1696,461,,2026-09-30
+2026-11-22,international,odi,male,4,pakistan,Pakistan,,,1692,414,,2026-10-31
+2026-11-22,international,odi,male,5,south-africa,South Africa,,,1685,380,,2026-09-30
+2026-11-22,international,odi,male,6,england,England,,,1639,434,,2026-10-29
+2026-11-22,international,odi,male,7,sri-lanka,Sri Lanka,,,1612,473,,2026-10-31
+2026-11-22,international,odi,male,8,bangladesh,Bangladesh,,,1570,325,,2026-10-17
+2026-11-22,international,odi,male,9,west-indies,West Indies,,,1533,380,,2026-10-03
+2026-11-22,international,odi,male,10,scotland,Scotland,,,1441,113,,2026-08-13
+2026-11-22,international,odi,male,11,zimbabwe,Zimbabwe,,,1415,275,,2026-10-17
+2026-11-22,international,odi,male,12,united-states-of-america,United States of America,,,1414,82,,2026-10-13
+2026-11-22,international,odi,male,13,ireland,Ireland,,,1390,129,,2026-11-01
+2026-11-22,international,odi,male,14,netherlands,Netherlands,,,1387,96,,2026-11-02
+2026-11-22,international,odi,male,15,namibia,Namibia,,,1381,84,,2026-11-01
+2026-11-22,international,odi,male,16,nepal,Nepal,,,1339,92,,2026-10-19
+2026-11-22,international,odi,male,17,united-arab-emirates,United Arab Emirates,,,1245,123,,2026-10-31
+2026-11-22,international,odi,male,18,canada,Canada,,,1188,70,,2026-10-17
+2026-11-22,international,odi,male,19,oman,Oman,,,1177,77,,2026-11-02
+2026-11-22,international,odi,female,1,australia-women,Australia,,,1973,127,,2026-10-14
+2026-11-22,international,odi,female,2,england-women,England,,,1711,139,,2026-09-06
+2026-11-22,international,odi,female,3,india-women,India,,,1708,130,,2026-10-28
+2026-11-22,international,odi,female,4,south-africa-women,South Africa,,,1582,148,,2026-04-04
+2026-11-22,international,odi,female,5,new-zealand-women,New Zealand,,,1572,114,,2026-05-16
+2026-11-22,international,odi,female,6,sri-lanka-women,Sri Lanka,,,1458,86,,2026-07-28
+2026-11-22,international,odi,female,7,scotland-women,Scotland,,,1432,15,,2026-08-30
+2026-11-22,international,odi,female,8,west-indies-women,West Indies,,,1426,104,,2026-09-30
+2026-11-22,international,odi,female,9,pakistan-women,Pakistan,,,1416,110,,2026-07-28
+2026-11-22,international,odi,female,10,thailand-women,Thailand,,,1393,17,,2026-08-17
+2026-11-22,international,odi,female,11,bangladesh-women,Bangladesh,,,1358,61,,2026-10-14
+2026-11-22,international,odi,female,12,united-arab-emirates-women,United Arab Emirates,,,1326,8,,2025-10-19
+2026-11-22,international,odi,female,13,netherlands-women,Netherlands,,,1324,16,,2026-08-30
+2026-11-22,international,odi,female,14,united-states-of-america-women,United States of America,,,1303,9,,2025-05-03
+2026-11-22,international,odi,female,15,ireland-women,Ireland,,,1287,64,,2026-09-06
+2026-11-22,international,odi,female,16,zimbabwe-women,Zimbabwe,,,1228,39,,2026-10-28
+2026-11-22,international,odi,female,17,papua-new-guinea-women,Papua New Guinea,,,1199,15,,2026-08-17
+2026-11-22,international,t20,male,1,england,England,,,1791,219,,2026-09-19
+2026-11-22,international,t20,male,2,india,India,,,1790,282,,2026-11-01
+2026-11-22,international,t20,male,3,uganda,Uganda,,,1763,129,,2026-10-25
+2026-11-22,international,t20,male,4,australia,Australia,,,1734,220,,2026-06-21
+2026-11-22,international,t20,male,5,spain,Spain,,,1718,50,,2026-08-21
+2026-11-22,international,t20,male,6,portugal,Portugal,,,1704,49,,2026-08-21
+2026-11-22,international,t20,male,7,pakistan,Pakistan,,,1698,283,,2026-10-13
+2026-11-22,international,t20,male,8,jersey,Jersey,,,1697,59,,2026-05-23
+2026-11-22,international,t20,male,9,south-africa,South Africa,,,1690,228,,2026-09-06
+2026-11-22,international,t20,male,10,new-zealand,New Zealand,,,1682,257,,2026-11-01
+2026-11-22,international,t20,male,11,nepal,Nepal,,,1678,130,,2026-06-08
+2026-11-22,international,t20,male,12,united-states-of-america,United States of America,,,1642,74,,2026-02-15
+2026-11-22,international,t20,male,13,united-arab-emirates,United Arab Emirates,,,1641,146,,2026-09-17
+2026-11-22,international,t20,male,14,kenya,Kenya,,,1635,127,,2026-09-19
+2026-11-22,international,t20,male,15,west-indies,West Indies,,,1626,236,,2026-10-14
+2026-11-22,international,t20,male,16,bahrain,Bahrain,,,1614,123,,2026-10-14
+2026-11-22,international,t20,male,17,bermuda,Bermuda,,,1608,61,,2026-09-27
+2026-11-22,international,t20,male,18,austria,Austria,,,1606,82,,2026-07-30
+2026-11-22,international,t20,male,19,belgium,Belgium,,,1597,47,,2026-07-14
+2026-11-22,international,t20,male,20,germany,Germany,,,1595,75,,2026-08-21
+2026-11-22,international,t20,male,21,japan,Japan,,,1592,67,,2026-09-22
+2026-11-22,international,t20,male,22,hong-kong,Hong Kong,,,1589,142,,2026-10-14
+2026-11-22,international,t20,male,23,namibia,Namibia,,,1588,119,,2026-09-04
+2026-11-22,international,t20,male,24,italy,Italy,,,1587,50,,2026-02-19
+2026-11-22,international,t20,male,25,guernsey,Guernsey,,,1586,43,,2026-05-23
+2026-11-22,international,t20,male,26,saudi-arabia,Saudi Arabia,,,1586,65,,2026-10-14
+2026-11-22,international,t20,male,27,canada,Canada,,,1585,88,,2026-02-17
+2026-11-22,international,t20,male,28,qatar,Qatar,,,1585,72,,2026-10-14
+2026-11-22,international,t20,male,29,ireland,Ireland,,,1583,157,,2026-06-28
+2026-11-22,international,t20,male,30,scotland,Scotland,,,1578,102,,2026-04-18
+2026-11-22,international,t20,male,31,denmark,Denmark,,,1577,57,,2026-07-14
+2026-11-22,international,t20,male,32,malaysia,Malaysia,,,1577,135,,2026-10-14
+2026-11-22,international,t20,male,33,zimbabwe,Zimbabwe,,,1576,179,,2026-09-06
+2026-11-22,international,t20,male,34,kuwait,Kuwait,,,1574,83,,2026-10-12
+2026-11-22,international,t20,male,35,netherlands,Netherlands,,,1574,122,,2026-02-18
+2026-11-22,international,t20,male,36,tanzania,Tanzania,,,1574,76,,2026-03-28
+2026-11-22,international,t20,male,37,papua-new-guinea,Papua New Guinea,,,1571,77,,2026-05-18
+2026-11-22,international,t20,male,38,nigeria,Nigeria,,,1569,103,,2026-10-25
+2026-11-22,international,t20,male,39,romania,Romania,,,1566,72,,2026-07-30
+2026-11-22,international,t20,male,40,bangladesh,Bangladesh,,,1559,198,,2026-10-03
+2026-11-22,international,t20,male,41,sri-lanka,Sri Lanka,,,1556,231,,2026-10-13
+2026-11-22,international,t20,male,42,france,France,,,1540,54,,2026-07-30
+2026-11-22,international,t20,male,43,sweden,Sweden,,,1535,51,,2026-07-02
+2026-11-22,international,t20,male,44,switzerland,Switzerland,,,1523,37,,2026-06-21
+2026-11-22,international,t20,male,45,oman,Oman,,,1519,115,,2026-09-25
+2026-11-22,international,t20,male,46,cayman-islands,Cayman Islands,,,1518,46,,2026-09-27
+2026-11-22,international,t20,male,47,norway,Norway,,,1504,59,,2026-07-14
+2026-11-22,international,t20,male,48,argentina,Argentina,,,1489,30,,2026-03-15
+2026-11-22,international,t20,male,49,finland,Finland,,,1486,49,,2026-08-21
+2026-11-22,international,t20,male,50,isle-of-man,Isle of Man,,,1479,30,,2026-08-21
+2026-11-22,international,t20,male,51,cook-islands,Cook Islands,,,1476,22,,2026-05-18
+2026-11-22,international,t20,male,52,rwanda,Rwanda,,,1458,120,,2026-09-17
+2026-11-22,international,t20,male,53,czech-republic,Czech Republic,,,1445,44,,2026-08-21
+2026-11-22,international,t20,male,54,philippines,Philippines,,,1445,49,,2026-05-16
+2026-11-22,international,t20,male,55,zambia,Zambia,,,1417,20,,2026-10-25
+2026-11-22,international,t20,male,56,singapore,Singapore,,,1414,86,,2026-10-14
+2026-11-22,international,t20,male,57,malta,Malta,,,1413,77,,2026-05-23
+2026-11-22,international,t20,male,58,cyprus,Cyprus,,,1412,43,,2026-05-22
+2026-11-22,international,t20,male,59,eswatini,Eswatini,,,1406,23,,2026-06-07
+2026-11-22,international,t20,male,60,botswana,Botswana,,,1400,69,,2026-09-18
+2026-11-22,international,t20,male,61,mozambique,Mozambique,,,1399,36,,2026-10-25
+2026-11-22,international,t20,male,62,samoa,Samoa,,,1398,34,,2026-05-18
+2026-11-22,international,t20,male,63,peru,Peru,,,1397,2,,2026-08-08
+2026-11-22,international,t20,male,64,south-korea,South Korea,,,1394,37,,2026-10-05
+2026-11-22,international,t20,male,65,hungary,Hungary,,,1392,49,,2026-07-14
+2026-11-22,international,t20,male,66,malawi,Malawi,,,1390,50,,2026-08-16
+2026-11-22,international,t20,male,67,turks-and-caicos-island,Turks and Caicos Island,,,1388,4,,2025-04-20
+2026-11-22,international,t20,male,68,brazil,Brazil,,,1371,22,,2026-08-09
+2026-11-22,international,t20,male,69,panama,Panama,,,1369,34,,2026-08-09
+2026-11-22,international,t20,male,70,vanuatu,Vanuatu,,,1368,43,,2026-05-17
+2026-11-22,international,t20,male,71,israel,Israel,,,1364,24,,2026-08-21
+2026-11-22,international,t20,male,72,estonia,Estonia,,,1359,34,,2026-07-14
+2026-11-22,international,t20,male,73,mexico,Mexico,,,1353,31,,2026-08-08
+2026-11-22,international,t20,male,74,thailand,Thailand,,,1350,72,,2026-10-14
+2026-11-22,international,t20,male,75,ghana,Ghana,,,1348,48,,2026-09-26
+2026-11-22,international,t20,male,76,fiji,Fiji,,,1346,22,,2026-05-17
+2026-11-22,international,t20,male,77,luxembourg,Luxembourg,,,1333,48,,2026-08-20
+2026-11-22,international,t20,male,78,indonesia,Indonesia,,,1327,118,,2026-10-05
+2026-11-22,international,t20,male,79,uzbekistan,Uzbekistan,,,1327,4,,2026-06-26
+2026-11-22,international,t20,male,80,bahamas,Bahamas,,,1311,34,,2026-09-26
+2026-11-22,international,t20,male,81,suriname,Suriname,,,1308,14,,2026-03-15
+2026-11-22,international,t20,male,82,bhutan,Bhutan,,,1303,52,,2026-10-14
+2026-11-22,international,t20,male,83,cameroon,Cameroon,,,1300,21,,2026-05-29
+2026-11-22,international,t20,male,84,cambodia,Cambodia,,,1295,36,,2025-12-29
+2026-11-22,international,t20,male,85,croatia,Croatia,,,1295,33,,2026-05-23
+2026-11-22,international,t20,male,86,seychelles,Seychelles,,,1287,16,,2026-03-28
+2026-11-22,international,t20,male,87,gibraltar,Gibraltar,,,1279,62,,2026-07-14
+2026-11-22,international,t20,male,88,st-helena,St Helena,,,1279,15,,2026-03-28
+2026-11-22,international,t20,male,89,belize,Belize,,,1276,20,,2026-06-27
+2026-11-22,international,t20,male,90,bulgaria,Bulgaria,,,1275,55,,2026-08-21
+2026-11-22,international,t20,male,91,costa-rica,Costa Rica,,,1275,12,,2026-04-04
+2026-11-22,international,t20,male,92,gambia,Gambia,,,1275,16,,2026-10-25
+2026-11-22,international,t20,male,93,sierra-leone,Sierra Leone,,,1275,60,,2026-09-27
+2026-11-22,international,t20,male,94,greece,Greece,,,1270,13,,2026-08-20
+2026-11-22,international,t20,male,95,maldives,Maldives,,,1252,50,,2026-10-14
+2026-11-22,international,t20,male,96,turkey,Turkey,,,1224,24,,2026-07-29
+2026-11-22,international,t20,male,97,slovenia,Slovenia,,,1213,19,,2026-05-22
+2026-11-22,international,t20,male,98,serbia,Serbia,,,1205,38,,2026-07-14
+2026-11-22,international,t20,male,99,lesotho,Lesotho,,,1203,31,,2026-10-25
+2026-11-22,international,t20,male,100,mali,Mali,,,1195,15,,2026-05-30
+2026-11-22,international,t20,female,1,australia-women,Australia,,,1934,155,,2026-10-20
+2026-11-22,international,t20,female,2,england-women,England,,,1830,178,,2026-07-05
+2026-11-22,international,t20,female,3,india-women,India,,,1781,179,,2026-10-20
+2026-11-22,international,t20,female,4,south-africa-women,South Africa,,,1694,157,,2026-09-19
+2026-11-22,international,t20,female,5,cyprus-women,Cyprus,,,1689,19,,2026-06-20
+2026-11-22,international,t20,female,6,sri-lanka-women,Sri Lanka,,,1674,148,,2026-09-22
+2026-11-22,international,t20,female,7,thailand-women,Thailand,,,1674,138,,2026-09-17
+2026-11-22,international,t20,female,8,ireland-women,Ireland,,,1673,133,,2026-06-27
+2026-11-22,international,t20,female,9,new-zealand-women,New Zealand,,,1666,135,,2026-10-20
+2026-11-22,international,t20,female,10,united-arab-emirates-women,United Arab Emirates,,,1665,117,,2026-09-08
+2026-11-22,international,t20,female,11,rwanda-women,Rwanda,,,1651,82,,2026-06-19
+2026-11-22,international,t20,female,12,scotland-women,Scotland,,,1643,91,,2026-06-26
+2026-11-22,international,t20,female,13,west-indies-women,West Indies,,,1631,142,,2026-10-07
+2026-11-22,international,t20,female,14,uganda-women,Uganda,,,1626,105,,2026-07-30
+2026-11-22,international,t20,female,15,sweden-women,Sweden,,,1612,23,,2026-10-18
+2026-11-22,international,t20,female,16,netherlands-women,Netherlands,,,1604,106,,2026-06-27
+2026-11-22,international,t20,female,17,papua-new-guinea-women,Papua New Guinea,,,1600,61,,2026-08-11
+2026-11-22,international,t20,female,18,brazil-women,Brazil,,,1580,40,,2026-06-20
+2026-11-22,international,t20,female,19,united-states-of-america-women,United States of America,,,1576,52,,2026-04-30
+2026-11-22,international,t20,female,20,switzerland-women,Switzerland,,,1568,16,,2026-07-12
+2026-11-22,international,t20,female,21,germany-women,Germany,,,1566,58,,2026-08-30
+2026-11-22,international,t20,female,22,spain-women,Spain,,,1553,11,,2025-05-29
+2026-11-22,international,t20,female,23,bangladesh-women,Bangladesh,,,1550,135,,2026-09-22
+2026-11-22,international,t20,female,24,indonesia-women,Indonesia,,,1547,49,,2026-09-04
+2026-11-22,international,t20,female,25,italy-women,Italy,,,1547,34,,2026-05-01
+2026-11-22,international,t20,female,26,pakistan-women,Pakistan,,,1545,163,,2026-09-22
+2026-11-22,international,t20,female,27,isle-of-man-women,Isle of Man,,,1543,19,,2026-08-30
+2026-11-22,international,t20,female,28,croatia-women,Croatia,,,1538,9,,2026-09-06
+2026-11-22,international,t20,female,29,namibia-women,Namibia,,,1533,111,,2026-07-30
+2026-11-22,international,t20,female,30,turkey-women,Turkey,,,1532,16,,2026-08-30
+2026-11-22,international,t20,female,31,nigeria-women,Nigeria,,,1529,49,,2026-06-20
+2026-11-22,international,t20,female,32,gibraltar-women,Gibraltar,,,1527,11,,2025-06-13
+2026-11-22,international,t20,female,33,costa-rica-women,Costa Rica,,,1526,7,,2026-09-25
+2026-11-22,international,t20,female,34,jersey-women,Jersey,,,1526,22,,2026-06-14
+2026-11-22,international,t20,female,35,nepal-women,Nepal,,,1522,100,,2026-06-10
+2026-11-22,international,t20,female,36,oman-women,Oman,,,1514,42,,2026-06-10
+2026-11-22,international,t20,female,37,hong-kong-women,Hong Kong,,,1502,109,,2026-09-07
+2026-11-22,international,t20,female,38,tanzania-women,Tanzania,,,1493,59,,2026-07-30
+2026-11-22,international,t20,female,39,kenya-women,Kenya,,,1490,52,,2025-09-06
+2026-11-22,international,t20,female,40,portugal-women,Portugal,,,1486,9,,2026-09-06
+2026-11-22,international,t20,female,41,argentina-women,Argentina,,,1485,24,,2026-10-25
+2026-11-22,international,t20,female,42,denmark-women,Denmark,,,1481,23,,2026-08-30
+2026-11-22,international,t20,female,43,vanuatu-women,Vanuatu,,,1459,39,,2026-04-30
+2026-11-22,international,t20,female,44,myanmar-women,Myanmar,,,1454,37,,2026-06-09
+2026-11-22,international,t20,female,45,austria-women,Austria,,,1453,23,,2026-10-18
+2026-11-22,international,t20,female,46,japan-women,Japan,,,1446,57,,2026-09-18
+2026-11-22,international,t20,female,47,mexico-women,Mexico,,,1442,6,,2026-10-25
+2026-11-22,international,t20,female,48,serbia-women,Serbia,,,1430,18,,2026-09-06
+2026-11-22,international,t20,female,49,sierra-leone-women,Sierra Leone,,,1426,39,,2025-09-06
+2026-11-22,international,t20,female,50,samoa-women,Samoa,,,1424,23,,2025-09-15
+2026-11-22,international,t20,female,51,zimbabwe-women,Zimbabwe,,,1421,102,,2026-10-20
+2026-11-22,international,t20,female,52,malta-women,Malta,,,1418,10,,2026-06-20
+2026-11-22,international,t20,female,53,ghana-women,Ghana,,,1410,3,,2026-03-22
+2026-11-22,international,t20,female,54,malaysia-women,Malaysia,,,1403,106,,2026-09-18
+2026-11-22,international,t20,female,55,finland-women,Finland,,,1401,10,,2026-07-25
+2026-11-22,international,t20,female,56,botswana-women,Botswana,,,1394,60,,2026-04-11
+2026-11-22,international,t20,female,57,czech-republic-women,Czech Republic,,,1390,26,,2026-09-06
+2026-11-22,international,t20,female,58,norway-women,Norway,,,1387,25,,2026-08-30
+2026-11-22,international,t20,female,59,fiji-women,Fiji,,,1385,16,,2025-09-15
+2026-11-22,international,t20,female,60,guernsey-women,Guernsey,,,1380,8,,2026-08-29
+2026-11-22,international,t20,female,61,china-women,China,,,1375,52,,2026-06-07
+2026-11-22,international,t20,female,62,estonia-women,Estonia,,,1375,18,,2026-07-25
+2026-11-22,international,t20,female,63,romania-women,Romania,,,1367,13,,2026-10-18
+2026-11-22,international,t20,female,64,luxembourg-women,Luxembourg,,,1356,14,,2026-08-23
+2026-11-22,international,t20,female,65,canada-women,Canada,,,1355,30,,2026-08-02
+2026-11-22,international,t20,female,66,bhutan-women,Bhutan,,,1345,37,,2026-06-06
+2026-11-22,international,t20,female,67,kuwait-women,Kuwait,,,1344,54,,2026-06-06
+2026-11-22,international,t20,female,68,malawi-women,Malawi,,,1337,38,,2026-06-17
+2026-11-22,international,t20,female,69,greece-women,Greece,,,1319,32,,2026-08-29
+2026-11-22,international,t20,female,70,france-women,France,,,1317,20,,2025-03-13
+2026-11-22,international,t20,female,71,chile-women,Chile,,,1307,6,,2026-09-25
+2026-11-22,international,t20,female,72,cook-islands-women,Cook Islands,,,1296,13,,2025-09-15
+2026-11-22,international,t20,female,73,cameroon-women,Cameroon,,,1287,25,,2025-07-26
+2026-11-22,international,t20,female,74,mozambique-women,Mozambique,,,1285,39,,2026-04-11
+2026-11-22,international,t20,female,75,philippines-women,Philippines,,,1265,20,,2026-06-09
+2026-11-22,international,t20,female,76,qatar-women,Qatar,,,1264,43,,2026-06-06
+2026-11-22,international,t20,female,77,belgium-women,Belgium,,,1234,13,,2026-09-06
+2026-11-22,international,t20,female,78,zambia-women,Zambia,,,1233,7,,2026-04-11
+2026-11-22,international,t20,female,79,bulgaria-women,Bulgaria,,,1230,25,,2026-10-18
+2026-11-22,international,t20,female,80,cambodia-women,Cambodia,,,1213,7,,2025-08-16
+2026-11-22,international,t20,female,81,singapore-women,Singapore,,,1213,55,,2026-06-06
+2026-11-22,international,t20,female,82,mongolia-women,Mongolia,,,1209,18,,2026-06-09
+2026-11-22,international,t20,female,83,lesotho-women,Lesotho,,,1183,25,,2026-04-11
+2026-11-22,international,t20,female,84,saudi-arabia-women,Saudi Arabia,,,1182,13,,2026-06-06
+2026-11-22,international,t20,female,85,bahrain-women,Bahrain,,,1138,35,,2026-06-07
+2026-11-22,international,t20,female,86,eswatini-women,Eswatini,,,1104,20,,2025-07-26
